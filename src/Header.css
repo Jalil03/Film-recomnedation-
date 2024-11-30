@@ -1,0 +1,49 @@
+.header {
+  background: linear-gradient(90deg, #002b5b, #005f73, #0a9396); /* Deep navy to teal tones */
+  color: white;
+  padding: 10px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.header-logo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #ffbc42; /* Soft yellow to complement red and orange */
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-nav {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.header-nav li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 6px 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.header-nav li a:hover {
+  background-color: #0a9396; /* Teal for hover effect */
+  color: #ffbc42; /* Soft yellow text on hover */
+}
+
+.header-nav li a.active {
+  background-color: #ff6f61; /* Red for active link */
+  color: white;
+  font-weight: bold;
+}

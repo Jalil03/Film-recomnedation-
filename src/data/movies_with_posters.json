@@ -1,0 +1,3002 @@
+[
+    {
+        "movieId": 1,
+        "title": "Toy Story (1995)",
+        "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+    },
+    {
+        "movieId": 2,
+        "title": "Jumanji (1995)",
+        "genres": "Adventure|Children|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg"
+    },
+    {
+        "movieId": 3,
+        "title": "Grumpier Old Men (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1FSXpj5e8l4KH6nVFO5SPUeraOt.jpg"
+    },
+    {
+        "movieId": 4,
+        "title": "Waiting to Exhale (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qJU6rfil5xLVb5HpJsmmfeSK254.jpg"
+    },
+    {
+        "movieId": 5,
+        "title": "Father of the Bride Part II (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg"
+    },
+    {
+        "movieId": 6,
+        "title": "Heat (1995)",
+        "genres": "Action|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg"
+    },
+    {
+        "movieId": 7,
+        "title": "Sabrina (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zENmHYYCsR6xgdyh2uHXPX4tyXE.jpg"
+    },
+    {
+        "movieId": 8,
+        "title": "Tom and Huck (1995)",
+        "genres": "Adventure|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vIG8hWOa7DyLMRiurzKwVAnIYoU.jpg"
+    },
+    {
+        "movieId": 9,
+        "title": "Sudden Death (1995)",
+        "genres": "Action",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1pylO6YX5XdOA6QCc5IRxrrffkg.jpg"
+    },
+    {
+        "movieId": 10,
+        "title": "GoldenEye (1995)",
+        "genres": "Action|Adventure|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg"
+    },
+    {
+        "movieId": 11,
+        "title": "American President, The (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg"
+    },
+    {
+        "movieId": 12,
+        "title": "Dracula: Dead and Loving It (1995)",
+        "genres": "Comedy|Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4rRfZz8YnHNRr16t3CFcJrPdXHi.jpg"
+    },
+    {
+        "movieId": 13,
+        "title": "Balto (1995)",
+        "genres": "Adventure|Animation|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg"
+    },
+    {
+        "movieId": 14,
+        "title": "Nixon (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8O2sBYJq0K0EMpw67cU1PjVJ7w3.jpg"
+    },
+    {
+        "movieId": 15,
+        "title": "Cutthroat Island (1995)",
+        "genres": "Action|Adventure|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cDYa1i5UzXWztO5ZUp4azv7ycPs.jpg"
+    },
+    {
+        "movieId": 16,
+        "title": "Casino (1995)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4TS5O1IP42bY2BvgMxL156EENy.jpg"
+    },
+    {
+        "movieId": 17,
+        "title": "Sense and Sensibility (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg"
+    },
+    {
+        "movieId": 18,
+        "title": "Four Rooms (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/75aHn1NOYXh4M7L5shoeQ6NGykP.jpg"
+    },
+    {
+        "movieId": 19,
+        "title": "Ace Ventura: When Nature Calls (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg"
+    },
+    {
+        "movieId": 20,
+        "title": "Money Train (1995)",
+        "genres": "Action|Comedy|Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jWBDz6Mf9aQVBiUS76JQsEhvoJl.jpg"
+    },
+    {
+        "movieId": 21,
+        "title": "Get Shorty (1995)",
+        "genres": "Comedy|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg"
+    },
+    {
+        "movieId": 22,
+        "title": "Copycat (1995)",
+        "genres": "Crime|Drama|Horror|Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oMgwJb016znNZcpDR20eXxZoW8A.jpg"
+    },
+    {
+        "movieId": 23,
+        "title": "Assassins (1995)",
+        "genres": "Action|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kgqS4jn60E8UIExfceMUExB3ZKK.jpg"
+    },
+    {
+        "movieId": 24,
+        "title": "Powder (1995)",
+        "genres": "Drama|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kImKATjY4EsK5MDgrmpJdGbQEbq.jpg"
+    },
+    {
+        "movieId": 25,
+        "title": "Leaving Las Vegas (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wIfP6uLXD9Ptu68SyRx8WuSNNSK.jpg"
+    },
+    {
+        "movieId": 26,
+        "title": "Othello (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kyevuYzW36wKadiE8lftLac5VwQ.jpg"
+    },
+    {
+        "movieId": 27,
+        "title": "Now and Then (1995)",
+        "genres": "Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/q31Ks8oAmM4Nq2CcGjyYYpdBAmh.jpg"
+    },
+    {
+        "movieId": 28,
+        "title": "Persuasion (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg"
+    },
+    {
+        "movieId": 29,
+        "title": "City of Lost Children, The (Cit\u00c3\u00a9 des enfants perdus, La) (1995)",
+        "genres": "Adventure|Drama|Fantasy|Mystery|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/whwT3Q9JxbAYzEc3t7uYYcCbTMf.jpg"
+    },
+    {
+        "movieId": 30,
+        "title": "Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tzG1UxUSfPACREjgBrsPDRUvneH.jpg"
+    },
+    {
+        "movieId": 31,
+        "title": "Dangerous Minds (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yWHWC8fJRp2kLgiFrEa8o3krOH9.jpg"
+    },
+    {
+        "movieId": 32,
+        "title": "Twelve Monkeys (a.k.a. 12 Monkeys) (1995)",
+        "genres": "Mystery|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg"
+    },
+    {
+        "movieId": 34,
+        "title": "Babe (1995)",
+        "genres": "Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg"
+    },
+    {
+        "movieId": 36,
+        "title": "Dead Man Walking (1995)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eShxyjhWoFl3BwsuEmVsr4nLaMZ.jpg"
+    },
+    {
+        "movieId": 38,
+        "title": "It Takes Two (1995)",
+        "genres": "Children|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4CptjFLiIJXtjc3dykS7vkEHMbw.jpg"
+    },
+    {
+        "movieId": 39,
+        "title": "Clueless (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg"
+    },
+    {
+        "movieId": 40,
+        "title": "Cry, the Beloved Country (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kGPsBswFOCjiGzXq4OZwzEAAODa.jpg"
+    },
+    {
+        "movieId": 41,
+        "title": "Richard III (1995)",
+        "genres": "Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aN2BcIH6rvGbYiRQCS8lxOdeeVQ.jpg"
+    },
+    {
+        "movieId": 42,
+        "title": "Dead Presidents (1995)",
+        "genres": "Action|Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eGfsSXizR11tTHVo0kuOOFPAxZt.jpg"
+    },
+    {
+        "movieId": 43,
+        "title": "Restoration (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/d7udB1dbJ2zAewg4FjFFnPq8iow.jpg"
+    },
+    {
+        "movieId": 44,
+        "title": "Mortal Kombat (1995)",
+        "genres": "Action|Adventure|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aVotlc03uy62YJUFGxlQUF7FZXV.jpg"
+    },
+    {
+        "movieId": 45,
+        "title": "To Die For (1995)",
+        "genres": "Comedy|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg"
+    },
+    {
+        "movieId": 46,
+        "title": "How to Make an American Quilt (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vwYRaERccwXWCYrTzeWRZRarJOo.jpg"
+    },
+    {
+        "movieId": 47,
+        "title": "Seven (a.k.a. Se7en) (1995)",
+        "genres": "Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg"
+    },
+    {
+        "movieId": 48,
+        "title": "Pocahontas (1995)",
+        "genres": "Animation|Children|Drama|Musical|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
+    },
+    {
+        "movieId": 49,
+        "title": "When Night Is Falling (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6Ac5GLwJ01uli5mCXqXwquR36Y1.jpg"
+    },
+    {
+        "movieId": 50,
+        "title": "Usual Suspects, The (1995)",
+        "genres": "Crime|Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rWbsxdwF9qQzpTPCLmDfVnVqTK1.jpg"
+    },
+    {
+        "movieId": 52,
+        "title": "Mighty Aphrodite (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ice135yQZp4iX2SgCmd90nKgS5j.jpg"
+    },
+    {
+        "movieId": 53,
+        "title": "Lamerica (1994)",
+        "genres": "Adventure|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nnLpA4mqb3gvhNJQZ00cOyBmeq3.jpg"
+    },
+    {
+        "movieId": 54,
+        "title": "Big Green, The (1995)",
+        "genres": "Children|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gnOcJuyKWb3pR1lj4qpzSaThPrn.jpg"
+    },
+    {
+        "movieId": 55,
+        "title": "Georgia (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uXjfK404xo7SiVlFcAoRyaFqXR4.jpg"
+    },
+    {
+        "movieId": 57,
+        "title": "Home for the Holidays (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3zqlKdOttWyExzopVxglz50Vjxq.jpg"
+    },
+    {
+        "movieId": 58,
+        "title": "Postman, The (Postino, Il) (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg"
+    },
+    {
+        "movieId": 60,
+        "title": "Indian in the Cupboard, The (1995)",
+        "genres": "Adventure|Children|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg"
+    },
+    {
+        "movieId": 61,
+        "title": "Eye for an Eye (1996)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/y2lZSdJ1o0VvLegTw3ad6KFtxra.jpg"
+    },
+    {
+        "movieId": 62,
+        "title": "Mr. Holland's Opus (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg"
+    },
+    {
+        "movieId": 63,
+        "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)",
+        "genres": "Comedy|Crime",
+        "poster_path": "https://image.tmdb.org/t/p/w500/HZQBF7JDd2e9p4rPSbSHuWHaCC.jpg"
+    },
+    {
+        "movieId": 64,
+        "title": "Two if by Sea (1996)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xSfqAMYqrTtDeAjPtYo0S8nc5Zz.jpg"
+    },
+    {
+        "movieId": 65,
+        "title": "Bio-Dome (1996)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/pkL8rqpO0EryTV1DLJJdrhOZ7sL.jpg"
+    },
+    {
+        "movieId": 66,
+        "title": "Lawnmower Man 2: Beyond Cyberspace (1996)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nsKDpcdC62krEPlCKKjLSHuMwwu.jpg"
+    },
+    {
+        "movieId": 68,
+        "title": "French Twist (Gazon maudit) (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xlLnHizshGBwMiNrnop2kg2nYzE.jpg"
+    },
+    {
+        "movieId": 69,
+        "title": "Friday (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2lReF53F8trkC68piGSfk0JVwWU.jpg"
+    },
+    {
+        "movieId": 70,
+        "title": "From Dusk Till Dawn (1996)",
+        "genres": "Action|Comedy|Horror|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg"
+    },
+    {
+        "movieId": 71,
+        "title": "Fair Game (1995)",
+        "genres": "Action",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qcxsWOzBaF7MZNNThtRQWQ9Wrdk.jpg"
+    },
+    {
+        "movieId": 72,
+        "title": "Kicking and Screaming (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ynAtSpTou7snNOq32djzILw9VCA.jpg"
+    },
+    {
+        "movieId": 73,
+        "title": "Mis\u00c3\u00a9rables, Les (1995)",
+        "genres": "Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/toQ6BJCiKVSnklpsma2GnJ6KKah.jpg"
+    },
+    {
+        "movieId": 74,
+        "title": "Bed of Roses (1996)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/e0Eho8TETw1RhvX9MH9i19Xf1iM.jpg"
+    },
+    {
+        "movieId": 75,
+        "title": "Big Bully (1996)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dws3JR4Yi325Tz33XnuXEB6XjGr.jpg"
+    },
+    {
+        "movieId": 76,
+        "title": "Screamers (1995)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eqgBf791rMZG7ywHfObpXeMpiRf.jpg"
+    },
+    {
+        "movieId": 77,
+        "title": "Nico Icon (1995)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/w3oiJZTB1UP3lj0uSVLdsYfsBbC.jpg"
+    },
+    {
+        "movieId": 78,
+        "title": "Crossing Guard, The (1995)",
+        "genres": "Action|Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kogaCIIylHmWQo2gJrrdq8Br8b8.jpg"
+    },
+    {
+        "movieId": 79,
+        "title": "Juror, The (1996)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg"
+    },
+    {
+        "movieId": 80,
+        "title": "White Balloon, The (Badkonake sefid) (1995)",
+        "genres": "Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/u6jrlgZZx3zSFPDPTVOYpueljgH.jpg"
+    },
+    {
+        "movieId": 81,
+        "title": "Things to Do in Denver When You're Dead (1995)",
+        "genres": "Crime|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rA4Jttg1kJvNhSv7wM0SNyXrqY0.jpg"
+    },
+    {
+        "movieId": 82,
+        "title": "Antonia's Line (Antonia) (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nUCVi6bBIL7LGC61nYaCqikAhIA.jpg"
+    },
+    {
+        "movieId": 83,
+        "title": "Once Upon a Time... When We Were Colored (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/45xucuNlia6vEPWYrYu2QlnwgpO.jpg"
+    },
+    {
+        "movieId": 85,
+        "title": "Angels and Insects (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/w1i5JdddoLuzSmnKo5ORDoKdMm2.jpg"
+    },
+    {
+        "movieId": 86,
+        "title": "White Squall (1996)",
+        "genres": "Action|Adventure|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/muhTVa52IufjTaqNseXFQUAEuyG.jpg"
+    },
+    {
+        "movieId": 87,
+        "title": "Dunston Checks In (1996)",
+        "genres": "Children|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xR2cWC04kWNr7TBeXNOf4uOqn00.jpg"
+    },
+    {
+        "movieId": 88,
+        "title": "Black Sheep (1996)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bqIW5oE4WeHAvk1nh2Y6rfOLGrF.jpg"
+    },
+    {
+        "movieId": 89,
+        "title": "Nick of Time (1995)",
+        "genres": "Action|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/A1FJwUVg84sQSjHVz5jVMXQvifJ.jpg"
+    },
+    {
+        "movieId": 92,
+        "title": "Mary Reilly (1996)",
+        "genres": "Drama|Horror|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eAOPWQdwytdRaLK3VXi7JFJFqmj.jpg"
+    },
+    {
+        "movieId": 93,
+        "title": "Vampire in Brooklyn (1995)",
+        "genres": "Comedy|Horror|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fodPA5x3REtOwColG17CucreZqM.jpg"
+    },
+    {
+        "movieId": 94,
+        "title": "Beautiful Girls (1996)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sHcx1fBmrtZYvFmUywU0d5cvIFd.jpg"
+    },
+    {
+        "movieId": 95,
+        "title": "Broken Arrow (1996)",
+        "genres": "Action|Adventure|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg"
+    },
+    {
+        "movieId": 96,
+        "title": "In the Bleak Midwinter (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lam5mVjru6yhgG8N1MHCqAUrxzL.jpg"
+    },
+    {
+        "movieId": 97,
+        "title": "Hate (Haine, La) (1995)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iH8saz6s0Z8SPPrKaMI2KrRzTED.jpg"
+    },
+    {
+        "movieId": 99,
+        "title": "Heidi Fleiss: Hollywood Madam (1995)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/laPSb9I8TuYslOh1OcgaTByWKnw.jpg"
+    },
+    {
+        "movieId": 100,
+        "title": "City Hall (1996)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tEpefYZtoDZsMflWrPIXbW0OSwN.jpg"
+    },
+    {
+        "movieId": 101,
+        "title": "Bottle Rocket (1996)",
+        "genres": "Adventure|Comedy|Crime|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg"
+    },
+    {
+        "movieId": 102,
+        "title": "Mr. Wrong (1996)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yGbPzJ5hib2TFi0Rkb6JH8webaL.jpg"
+    },
+    {
+        "movieId": 103,
+        "title": "Unforgettable (1996)",
+        "genres": "Mystery|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/500Ne3EDn3HHpuCQWwGKR74r0cB.jpg"
+    },
+    {
+        "movieId": 104,
+        "title": "Happy Gilmore (1996)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg"
+    },
+    {
+        "movieId": 105,
+        "title": "Bridges of Madison County, The (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/teGMLWvCnJqvtPYCSuUKRM9MvFe.jpg"
+    },
+    {
+        "movieId": 106,
+        "title": "Nobody Loves Me (Keiner liebt mich) (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vBDJPkoTOKT9F1zx0y9tT7G62vF.jpg"
+    },
+    {
+        "movieId": 107,
+        "title": "Muppet Treasure Island (1996)",
+        "genres": "Adventure|Children|Comedy|Musical",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gX2TAgjGvk2LJk4Awu0LM7UScfQ.jpg"
+    },
+    {
+        "movieId": 108,
+        "title": "Catwalk (1996)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8Db2Tx2RkTUozzilF1SGMitcHLl.jpg"
+    },
+    {
+        "movieId": 110,
+        "title": "Braveheart (1995)",
+        "genres": "Action|Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg"
+    },
+    {
+        "movieId": 111,
+        "title": "Taxi Driver (1976)",
+        "genres": "Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+    },
+    {
+        "movieId": 112,
+        "title": "Rumble in the Bronx (Hont faan kui) (1995)",
+        "genres": "Action|Adventure|Comedy|Crime",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1nAfchiXHQB3iyhK8fCJJEnNs5A.jpg"
+    },
+    {
+        "movieId": 113,
+        "title": "Before and After (1996)",
+        "genres": "Drama|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oK8UKDrjFS14OFoihaQPfmmMOyI.jpg"
+    },
+    {
+        "movieId": 116,
+        "title": "Anne Frank Remembered (1995)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6nyhzrSGimCbdxiY8DEO7kI7xx4.jpg"
+    },
+    {
+        "movieId": 117,
+        "title": "Young Poisoner's Handbook, The (1995)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/d3Lakfy0K1eRHUbay9kMeWdt7y6.jpg"
+    },
+    {
+        "movieId": 118,
+        "title": "If Lucy Fell (1996)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/l3Bwmjdon6JBDzJUA3ZSdMZZ7lI.jpg"
+    },
+    {
+        "movieId": 119,
+        "title": "Steal Big, Steal Little (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/83TvBaWt8wZHUZo8MKwE2cLRBiT.jpg"
+    },
+    {
+        "movieId": 121,
+        "title": "Boys of St. Vincent, The (1992)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cam0cG0UWdUVtQRvFHJXmNtL1hY.jpg"
+    },
+    {
+        "movieId": 122,
+        "title": "Boomerang (1992)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cc9YAZq5NXiIEJsHjW7p2FaHQkp.jpg"
+    },
+    {
+        "movieId": 123,
+        "title": "Chungking Express (Chung Hing sam lam) (1994)",
+        "genres": "Drama|Mystery|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg"
+    },
+    {
+        "movieId": 125,
+        "title": "Flirting With Disaster (1996)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sRRdVLuxk8OLCDRd4u4xDrDdwv7.jpg"
+    },
+    {
+        "movieId": 126,
+        "title": "NeverEnding Story III, The (1994)",
+        "genres": "Adventure|Children|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/o75HHfr23sgeqIeUPwjKY0V9Ppi.jpg"
+    },
+    {
+        "movieId": 128,
+        "title": "Jupiter's Wife (1994)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2GIdaPLF7gYyXnlxGzTwV5fQGWy.jpg"
+    },
+    {
+        "movieId": 129,
+        "title": "Pie in the Sky (1996)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iZs2BzP1nbrcHCDX3QEHa3Nn0y4.jpg"
+    },
+    {
+        "movieId": 132,
+        "title": "Jade (1995)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8KWiZKDYpAgh8n27lanvTuDquyX.jpg"
+    },
+    {
+        "movieId": 135,
+        "title": "Down Periscope (1996)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/brleKcHsirTw7lFqcgUMOfgL2nl.jpg"
+    },
+    {
+        "movieId": 137,
+        "title": "Man of the Year (1995)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jVO3Gvsdqe5C9Jr7cE1fSOtW2Op.jpg"
+    },
+    {
+        "movieId": 140,
+        "title": "Up Close and Personal (1996)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2yf1pCiQk6JMy4k5zxf39YXQxGB.jpg"
+    },
+    {
+        "movieId": 141,
+        "title": "Birdcage, The (1996)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4IpC35BoA5aRO0Q1DpFGJ8iKKYq.jpg"
+    },
+    {
+        "movieId": 144,
+        "title": "Brothers McMullen, The (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6oWsOJP0ed5gs8n2UywcailoxFN.jpg"
+    },
+    {
+        "movieId": 145,
+        "title": "Bad Boys (1995)",
+        "genres": "Action|Comedy|Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg"
+    },
+    {
+        "movieId": 146,
+        "title": "Amazing Panda Adventure, The (1995)",
+        "genres": "Adventure|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tIK40vCE9i8g4VhyJ3LLr5y1ROJ.jpg"
+    },
+    {
+        "movieId": 147,
+        "title": "Basketball Diaries, The (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg"
+    },
+    {
+        "movieId": 148,
+        "title": "Awfully Big Adventure, An (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tfXBuRBMbyu9IF9KCFz3kXeWQDT.jpg"
+    },
+    {
+        "movieId": 149,
+        "title": "Amateur (1994)",
+        "genres": "Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b9MEES9I2WNjEWULdKsqiHIGQlC.jpg"
+    },
+    {
+        "movieId": 150,
+        "title": "Apollo 13 (1995)",
+        "genres": "Adventure|Drama|IMAX",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kzj95o9FlVxKziQq36mjES3wxel.jpg"
+    },
+    {
+        "movieId": 151,
+        "title": "Rob Roy (1995)",
+        "genres": "Action|Drama|Romance|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4QuypgbNYmPECAAHnV3QY8qEpOz.jpg"
+    },
+    {
+        "movieId": 152,
+        "title": "Addiction, The (1995)",
+        "genres": "Drama|Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1Yy8H2tKQ16mffLFRfxcBHKBdyF.jpg"
+    },
+    {
+        "movieId": 153,
+        "title": "Batman Forever (1995)",
+        "genres": "Action|Adventure|Comedy|Crime",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mzzNBVwTiiY94xAXDMWJpNPW2US.jpg"
+    },
+    {
+        "movieId": 154,
+        "title": "Beauty of the Day (Belle de jour) (1967)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg"
+    },
+    {
+        "movieId": 155,
+        "title": "Beyond Rangoon (1995)",
+        "genres": "Adventure|Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xTiy5kSP3Hetig7xB4E8INq5ron.jpg"
+    },
+    {
+        "movieId": 156,
+        "title": "Blue in the Face (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/u0iwm9SDjlfFZDrSdSbcebX7VUG.jpg"
+    },
+    {
+        "movieId": 157,
+        "title": "Canadian Bacon (1995)",
+        "genres": "Comedy|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bzK2aQ8xUB67kwCR5LHTSY99HtT.jpg"
+    },
+    {
+        "movieId": 158,
+        "title": "Casper (1995)",
+        "genres": "Adventure|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg"
+    },
+    {
+        "movieId": 159,
+        "title": "Clockers (1995)",
+        "genres": "Crime|Drama|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/c79uqLJleho2a7OQayfrW5Ypphf.jpg"
+    },
+    {
+        "movieId": 160,
+        "title": "Congo (1995)",
+        "genres": "Action|Adventure|Mystery|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/hPNSToNIIpRO6y5Rh973leqQqNr.jpg"
+    },
+    {
+        "movieId": 161,
+        "title": "Crimson Tide (1995)",
+        "genres": "Drama|Thriller|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg"
+    },
+    {
+        "movieId": 162,
+        "title": "Crumb (1994)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jHIiz59mnKuHov0PjSNsuYOcx5D.jpg"
+    },
+    {
+        "movieId": 163,
+        "title": "Desperado (1995)",
+        "genres": "Action|Romance|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg"
+    },
+    {
+        "movieId": 164,
+        "title": "Devil in a Blue Dress (1995)",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5lcJhwKGavLbPva17QkTBhLfqEk.jpg"
+    },
+    {
+        "movieId": 165,
+        "title": "Die Hard: With a Vengeance (1995)",
+        "genres": "Action|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/skdHpVja0uRNKVVN9ksviI86I4z.jpg"
+    },
+    {
+        "movieId": 166,
+        "title": "Doom Generation, The (1995)",
+        "genres": "Comedy|Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cRzRj2UBvIH8ryWhu5PNL2PzV7j.jpg"
+    },
+    {
+        "movieId": 168,
+        "title": "First Knight (1995)",
+        "genres": "Action|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xuXkCcrvUTkehVXuTGpnfySsx0Z.jpg"
+    },
+    {
+        "movieId": 169,
+        "title": "Free Willy 2: The Adventure Home (1995)",
+        "genres": "Adventure|Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3wpug3W5rYBdqeAnhc1UeXLE5ZF.jpg"
+    },
+    {
+        "movieId": 170,
+        "title": "Hackers (1995)",
+        "genres": "Action|Adventure|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qfx2EENW1sOpKNVKLzr7VOhlxkt.jpg"
+    },
+    {
+        "movieId": 171,
+        "title": "Jeffrey (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cacIqtIkUaD5xYqUUN1J7qJjciQ.jpg"
+    },
+    {
+        "movieId": 172,
+        "title": "Johnny Mnemonic (1995)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg"
+    },
+    {
+        "movieId": 173,
+        "title": "Judge Dredd (1995)",
+        "genres": "Action|Crime|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cfSnKn8NDU3m8UxihjVcYprA0Aq.jpg"
+    },
+    {
+        "movieId": 174,
+        "title": "Jury Duty (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/DbKQDPqBE4kCaePj4CHu6r3ZAb.jpg"
+    },
+    {
+        "movieId": 175,
+        "title": "Kids (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg"
+    },
+    {
+        "movieId": 176,
+        "title": "Living in Oblivion (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b54xDk98oWtEtAso9sj1wjaZDDH.jpg"
+    },
+    {
+        "movieId": 177,
+        "title": "Lord of Illusions (1995)",
+        "genres": "Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6AFFgNbSE5x21ZdOqdJwrk8hMkg.jpg"
+    },
+    {
+        "movieId": 178,
+        "title": "Love & Human Remains (1993)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9QVw6cPXfsjr4PncE1TeWudeLmh.jpg"
+    },
+    {
+        "movieId": 179,
+        "title": "Mad Love (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/glhctWoYw1jg8z0FUSwFD4UTNi4.jpg"
+    },
+    {
+        "movieId": 180,
+        "title": "Mallrats (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kNm0AQFIc4nlzCd8Nqvbb5gccAV.jpg"
+    },
+    {
+        "movieId": 181,
+        "title": "Mighty Morphin Power Rangers: The Movie (1995)",
+        "genres": "Action|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/pcLbHqs80dchv0byHivhdwHKEup.jpg"
+    },
+    {
+        "movieId": 183,
+        "title": "Mute Witness (1994)",
+        "genres": "Comedy|Horror|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kfCIZNpb2bWspnQNkIQftQlksCU.jpg"
+    },
+    {
+        "movieId": 184,
+        "title": "Nadja (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sIZl6Oy5nn4kHKHamX50tSPF4Ob.jpg"
+    },
+    {
+        "movieId": 185,
+        "title": "Net, The (1995)",
+        "genres": "Action|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dtupntUFMD5iXBo8HLfALt2ET4R.jpg"
+    },
+    {
+        "movieId": 186,
+        "title": "Nine Months (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/z1nzYuoeTbGBrSicDxJEhJhEQz8.jpg"
+    },
+    {
+        "movieId": 187,
+        "title": "Party Girl (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg"
+    },
+    {
+        "movieId": 188,
+        "title": "Prophecy, The (1995)",
+        "genres": "Fantasy|Horror|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4ZWFhQipzBHJze2llzCzhrSIZsn.jpg"
+    },
+    {
+        "movieId": 189,
+        "title": "Reckless (1995)",
+        "genres": "Comedy|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/edNTtl2UuKcU8vXEaYgu76vISXw.jpg"
+    },
+    {
+        "movieId": 190,
+        "title": "Safe (1995)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/upgwNGCYPNR2bS230GPLgmM1qeS.jpg"
+    },
+    {
+        "movieId": 191,
+        "title": "Scarlet Letter, The (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg"
+    },
+    {
+        "movieId": 193,
+        "title": "Showgirls (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/atjtGFIIt9QMGf9ELyboq5cl466.jpg"
+    },
+    {
+        "movieId": 194,
+        "title": "Smoke (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/phvnN7OPEnlHoAZe8nsSqPDD8B0.jpg"
+    },
+    {
+        "movieId": 195,
+        "title": "Something to Talk About (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/a52KpsmvLNdTdmDzw1fUrJONpfH.jpg"
+    },
+    {
+        "movieId": 196,
+        "title": "Species (1995)",
+        "genres": "Horror|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg"
+    },
+    {
+        "movieId": 198,
+        "title": "Strange Days (1995)",
+        "genres": "Action|Crime|Drama|Mystery|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg"
+    },
+    {
+        "movieId": 199,
+        "title": "Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",
+        "genres": "Drama|Musical|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg"
+    },
+    {
+        "movieId": 201,
+        "title": "Three Wishes (1995)",
+        "genres": "Drama|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8uzNbDH1b90DTsy38NPLqVIVpAH.jpg"
+    },
+    {
+        "movieId": 202,
+        "title": "Total Eclipse (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/e0j1zDF3ITeTbGTXFGamosCxT4z.jpg"
+    },
+    {
+        "movieId": 203,
+        "title": "To Wong Foo, Thanks for Everything! Julie Newmar (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8bkJiI6N8wDxAtQ49bLUt0qCBII.jpg"
+    },
+    {
+        "movieId": 204,
+        "title": "Under Siege 2: Dark Territory (1995)",
+        "genres": "Action",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gElwFCQTbSK5hdK0PVyia547nst.jpg"
+    },
+    {
+        "movieId": 205,
+        "title": "Unstrung Heroes (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/twnqc80AL55WYnCVz4nMGEGcL7.jpg"
+    },
+    {
+        "movieId": 206,
+        "title": "Unzipped (1995)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dnIzv4rXr9FXkqW880E3rStYQA7.jpg"
+    },
+    {
+        "movieId": 207,
+        "title": "Walk in the Clouds, A (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xencQzZnUWDRAOUydjf9PWet8Ae.jpg"
+    },
+    {
+        "movieId": 208,
+        "title": "Waterworld (1995)",
+        "genres": "Action|Adventure|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/f4Q6BKm1lv9u5xoffbIIwrOYf6z.jpg"
+    },
+    {
+        "movieId": 209,
+        "title": "White Man's Burden (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5MPatVYJXPYEGrd9RQiwldBBQvJ.jpg"
+    },
+    {
+        "movieId": 210,
+        "title": "Wild Bill (1995)",
+        "genres": "Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/g5sQTDwc4BcvRCBAhnujhBPIEO1.jpg"
+    },
+    {
+        "movieId": 211,
+        "title": "Browning Version, The (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8My9Wnzu1zasVVzGdDj5y2dItuM.jpg"
+    },
+    {
+        "movieId": 212,
+        "title": "Bushwhacked (1995)",
+        "genres": "Adventure|Comedy|Crime|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/j3H0POtvl0Tt4Meesvp7HX6JxAv.jpg"
+    },
+    {
+        "movieId": 213,
+        "title": "Burnt by the Sun (Utomlyonnye solntsem) (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jcpvnPSuRrynrgY7menuyZe7X4r.jpg"
+    },
+    {
+        "movieId": 214,
+        "title": "Before the Rain (Pred dozhdot) (1994)",
+        "genres": "Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sAVSVFonnNkup5xnlxDkuRrmI2N.jpg"
+    },
+    {
+        "movieId": 215,
+        "title": "Before Sunrise (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg"
+    },
+    {
+        "movieId": 216,
+        "title": "Billy Madison (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sOdgtJdFalL9kRKaeJItARLTAEq.jpg"
+    },
+    {
+        "movieId": 217,
+        "title": "Babysitter, The (1995)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wOv6HKiKTcDiyZRXPOsjm2JhVZV.jpg"
+    },
+    {
+        "movieId": 218,
+        "title": "Boys on the Side (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2dhZnfBjiza5TupvOupRU4hFAcJ.jpg"
+    },
+    {
+        "movieId": 219,
+        "title": "Cure, The (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3WN1H5NzLOjhY9AP848v8WPc9uu.jpg"
+    },
+    {
+        "movieId": 220,
+        "title": "Castle Freak (1995)",
+        "genres": "Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rZv3aUkNngyZeiCgAjOEF5n0tve.jpg"
+    },
+    {
+        "movieId": 222,
+        "title": "Circle of Friends (1995)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dmyEriE6TsnbgkNaFOvCcXaF0Nt.jpg"
+    },
+    {
+        "movieId": 223,
+        "title": "Clerks (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg"
+    },
+    {
+        "movieId": 224,
+        "title": "Don Juan DeMarco (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lO64DbisoBwb9CBUmShTk3blpEt.jpg"
+    },
+    {
+        "movieId": 225,
+        "title": "Disclosure (1994)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dnA4QkIZZCF9wRtF8HHxWwUXVMf.jpg"
+    },
+    {
+        "movieId": 227,
+        "title": "Drop Zone (1994)",
+        "genres": "Action|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bbveyfmq6pGrzKL0l4waeA2WHHp.jpg"
+    },
+    {
+        "movieId": 228,
+        "title": "Destiny Turns on the Radio (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kd04IvuW1wvgGoB2HxSuFVIU9rU.jpg"
+    },
+    {
+        "movieId": 229,
+        "title": "Death and the Maiden (1994)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/hlUXQ2aEuYDEE0ok7DORE4uffjl.jpg"
+    },
+    {
+        "movieId": 230,
+        "title": "Dolores Claiborne (1995)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3RlG7uhJEqc5Ws2PIpNok0LuJ1I.jpg"
+    },
+    {
+        "movieId": 231,
+        "title": "Dumb & Dumber (Dumb and Dumber) (1994)",
+        "genres": "Adventure|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg"
+    },
+    {
+        "movieId": 232,
+        "title": "Eat Drink Man Woman (Yin shi nan nu) (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/olhIWtIBFg6VWK59DEd4lAvgVgz.jpg"
+    },
+    {
+        "movieId": 233,
+        "title": "Exotica (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/y6us5CnG3JeCt5zVf0qOJZhzNUs.jpg"
+    },
+    {
+        "movieId": 234,
+        "title": "Exit to Eden (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dUtpplO9K03uYCA71Vqj9ZRkVyA.jpg"
+    },
+    {
+        "movieId": 235,
+        "title": "Ed Wood (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/n8SrO3WbyuY2b6KazogqbQF348C.jpg"
+    },
+    {
+        "movieId": 236,
+        "title": "French Kiss (1995)",
+        "genres": "Action|Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/odG0qfyK2SIc6vfGYIiH8aLASqL.jpg"
+    },
+    {
+        "movieId": 237,
+        "title": "Forget Paris (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/c2RwGHqWwvh7nmRKpdIyYUWMEvP.jpg"
+    },
+    {
+        "movieId": 238,
+        "title": "Far From Home: The Adventures of Yellow Dog (1995)",
+        "genres": "Adventure|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bGSXHkITArICNipXJHdRZRFhmmA.jpg"
+    },
+    {
+        "movieId": 239,
+        "title": "Goofy Movie, A (1995)",
+        "genres": "Animation|Children|Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bycmMhO3iIoEDzP768sUjq2RV4T.jpg"
+    },
+    {
+        "movieId": 240,
+        "title": "Hideaway (1995)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cYWjgxgIJrak0BTemkij3gOCbMa.jpg"
+    },
+    {
+        "movieId": 241,
+        "title": "Fluke (1995)",
+        "genres": "Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/k7BHqoTWJPpoSpfCzzUjAduuIbX.jpg"
+    },
+    {
+        "movieId": 242,
+        "title": "Farinelli: il castrato (1994)",
+        "genres": "Drama|Musical",
+        "poster_path": "https://image.tmdb.org/t/p/w500/i5h0ZjYobco5HRPaAU6QTlrMYw0.jpg"
+    },
+    {
+        "movieId": 243,
+        "title": "Gordy (1995)",
+        "genres": "Children|Comedy|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4sLmghaiAIYXh320qCvZWY4avVT.jpg"
+    },
+    {
+        "movieId": 246,
+        "title": "Hoop Dreams (1994)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg"
+    },
+    {
+        "movieId": 247,
+        "title": "Heavenly Creatures (1994)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg"
+    },
+    {
+        "movieId": 248,
+        "title": "Houseguest (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cdiHlZho11EEqD3aPanYe1rEYRB.jpg"
+    },
+    {
+        "movieId": 249,
+        "title": "Immortal Beloved (1994)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg"
+    },
+    {
+        "movieId": 250,
+        "title": "Heavyweights (Heavy Weights) (1995)",
+        "genres": "Children|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/phjBzKsMySBz4NgKHPhPMTmIEjl.jpg"
+    },
+    {
+        "movieId": 251,
+        "title": "Hunted, The (1995)",
+        "genres": "Action",
+        "poster_path": "https://image.tmdb.org/t/p/w500/luCVuKiRBcQjr9MuY9mRCTehjpY.jpg"
+    },
+    {
+        "movieId": 252,
+        "title": "I.Q. (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1dLR9LX4O8DSyaU5OR3N0472IR.jpg"
+    },
+    {
+        "movieId": 253,
+        "title": "Interview with the Vampire: The Vampire Chronicles (1994)",
+        "genres": "Drama|Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2162lAT2MP36MyJd2sttmj5du5T.jpg"
+    },
+    {
+        "movieId": 254,
+        "title": "Jefferson in Paris (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vcZCvsm920LoNDb7pMibJkxIE4n.jpg"
+    },
+    {
+        "movieId": 255,
+        "title": "Jerky Boys, The (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yUbdqyZaeaoNKBQmnmtim1IIAf1.jpg"
+    },
+    {
+        "movieId": 256,
+        "title": "Junior (1994)",
+        "genres": "Comedy|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eQmgPrXf7c7daRdl3Zwgm65lw3o.jpg"
+    },
+    {
+        "movieId": 257,
+        "title": "Just Cause (1995)",
+        "genres": "Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/z8WqDIUC00TPX6U24ah0C7IMEKf.jpg"
+    },
+    {
+        "movieId": 258,
+        "title": "Kid in King Arthur's Court, A (1995)",
+        "genres": "Adventure|Children|Comedy|Fantasy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nzkCh60LNLTaAl8YCCVFM5OASUS.jpg"
+    },
+    {
+        "movieId": 259,
+        "title": "Kiss of Death (1995)",
+        "genres": "Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/h9E0Sz9VCVTwPEIsg9pr7hnFJ9w.jpg"
+    },
+    {
+        "movieId": 260,
+        "title": "Star Wars: Episode IV - A New Hope (1977)",
+        "genres": "Action|Adventure|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+    },
+    {
+        "movieId": 261,
+        "title": "Little Women (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg"
+    },
+    {
+        "movieId": 262,
+        "title": "Little Princess, A (1995)",
+        "genres": "Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg"
+    },
+    {
+        "movieId": 263,
+        "title": "Ladybird Ladybird (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/91KSK1xKdVEIDASKRo9ahBFCtM2.jpg"
+    },
+    {
+        "movieId": 265,
+        "title": "Like Water for Chocolate (Como agua para chocolate) (1992)",
+        "genres": "Drama|Fantasy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/itwUdMqLmPfhtGJ44hiDxkqZhiq.jpg"
+    },
+    {
+        "movieId": 266,
+        "title": "Legends of the Fall (1994)",
+        "genres": "Drama|Romance|War|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg"
+    },
+    {
+        "movieId": 267,
+        "title": "Major Payne (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kWHx5eq7PELkF3If7LrrhuBskRG.jpg"
+    },
+    {
+        "movieId": 269,
+        "title": "My Crazy Life (Mi vida loca) (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gtKIaHUqkNqdgVnMFosyVJXvKMC.jpg"
+    },
+    {
+        "movieId": 270,
+        "title": "Love Affair (1994)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/A7Ex1CSjfCYUgornOiJTJkJkw0A.jpg"
+    },
+    {
+        "movieId": 271,
+        "title": "Losing Isaiah (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oHALKuPewtqIn2BcluZsGvcEG1P.jpg"
+    },
+    {
+        "movieId": 272,
+        "title": "Madness of King George, The (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg"
+    },
+    {
+        "movieId": 273,
+        "title": "Mary Shelley's Frankenstein (Frankenstein) (1994)",
+        "genres": "Drama|Horror|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bOwCAQsZlEKrwhPi1ejY6BS8jpL.jpg"
+    },
+    {
+        "movieId": 274,
+        "title": "Man of the House (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6bnOhhrrrq6RZhMgz4aGyqbJ9Wf.jpg"
+    },
+    {
+        "movieId": 275,
+        "title": "Mixed Nuts (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rI5oZR0ov3ki72Gy1QDM8XJ43mo.jpg"
+    },
+    {
+        "movieId": 276,
+        "title": "Milk Money (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/od8SCOMLDq4iRYaHNqihQVn1SNE.jpg"
+    },
+    {
+        "movieId": 277,
+        "title": "Miracle on 34th Street (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
+    },
+    {
+        "movieId": 278,
+        "title": "Miami Rhapsody (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/h7I2DgoxdkVMiPx4usFNkfvSoBs.jpg"
+    },
+    {
+        "movieId": 279,
+        "title": "My Family (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/i6t6QF5QyUd3UAQ8JM8eVU1169D.jpg"
+    },
+    {
+        "movieId": 280,
+        "title": "Murder in the First (1995)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sU37ONoL9qUyYXUhubJSYH9tEoc.jpg"
+    },
+    {
+        "movieId": 281,
+        "title": "Nobody's Fool (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xyAXFy6mOfgZcVWbceCeuTYadeq.jpg"
+    },
+    {
+        "movieId": 282,
+        "title": "Nell (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aIDp3x2YfijtdherR28pIH6yenn.jpg"
+    },
+    {
+        "movieId": 283,
+        "title": "New Jersey Drive (1995)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lXJWJT6lfAg2NEqEueJcI4ESWSG.jpg"
+    },
+    {
+        "movieId": 284,
+        "title": "New York Cop (Ny\u00c3\u00bb Y\u00c3\u00b4ku no koppu) (1993)",
+        "genres": "Action|Crime",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5kXO783UrTaKZE3wn0KZv3RubZc.jpg"
+    },
+    {
+        "movieId": 285,
+        "title": "Beyond Bedlam (1993)",
+        "genres": "Drama|Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rqArVCgag2ng179rb3OXeEnS4Lo.jpg"
+    },
+    {
+        "movieId": 287,
+        "title": "Nina Takes a Lover (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mSPoA8exUsNThCfBjjTug7V7wGJ.jpg"
+    },
+    {
+        "movieId": 288,
+        "title": "Natural Born Killers (1994)",
+        "genres": "Action|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg"
+    },
+    {
+        "movieId": 289,
+        "title": "Only You (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7mLLANXgUg3bibTiUitDlB0NZcU.jpg"
+    },
+    {
+        "movieId": 290,
+        "title": "Once Were Warriors (1994)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1nd4SsytVc96hy92g8NNVPD3mzf.jpg"
+    },
+    {
+        "movieId": 291,
+        "title": "Poison Ivy II (1996)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jXLuQYRwWNuwW8dkx3zo5bWon2r.jpg"
+    },
+    {
+        "movieId": 292,
+        "title": "Outbreak (1995)",
+        "genres": "Action|Drama|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg"
+    },
+    {
+        "movieId": 293,
+        "title": "L\u00c3\u00a9on: The Professional (a.k.a. The Professional) (L\u00c3\u00a9on) (1994)",
+        "genres": "Action|Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+    },
+    {
+        "movieId": 294,
+        "title": "Perez Family, The (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jxi3UDHf86kDk5hqJxnpEMzVch2.jpg"
+    },
+    {
+        "movieId": 295,
+        "title": "Pyromaniac's Love Story, A (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9pU8aNS1wEXVGNR9WnsX2O3w9qF.jpg"
+    },
+    {
+        "movieId": 296,
+        "title": "Pulp Fiction (1994)",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+    },
+    {
+        "movieId": 298,
+        "title": "Pushing Hands (Tui shou) (1992)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/46WdJMUhZpIsG5D7bb0lYjoE1Uu.jpg"
+    },
+    {
+        "movieId": 299,
+        "title": "Priest (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bi1BeQMuPm1HzFfIZX4KHtKdJgy.jpg"
+    },
+    {
+        "movieId": 300,
+        "title": "Quiz Show (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg"
+    },
+    {
+        "movieId": 301,
+        "title": "Picture Bride (Bijo photo) (1994)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/s1lUr4NWgOi4ftXLrUWGI49IvKK.jpg"
+    },
+    {
+        "movieId": 302,
+        "title": "Queen Margot (Reine Margot, La) (1994)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8uGkhBLiJMIkwohGPo3iB9AuwDg.jpg"
+    },
+    {
+        "movieId": 303,
+        "title": "Quick and the Dead, The (1995)",
+        "genres": "Action|Thriller|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jhEmrXJpP6F3cqwyLjvgBgxxxFA.jpg"
+    },
+    {
+        "movieId": 304,
+        "title": "Roommates (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sNSwgnb81gfbki5ohGb766zvGQX.jpg"
+    },
+    {
+        "movieId": 305,
+        "title": "Ready to Wear (Pret-A-Porter) (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ehg1dTxsqx2eMZpd5Tio9JifwqB.jpg"
+    },
+    {
+        "movieId": 306,
+        "title": "Three Colors: Red (Trois couleurs: Rouge) (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/JHmsBiX1tjCKqAul1lzC20WcAW.jpg"
+    },
+    {
+        "movieId": 307,
+        "title": "Three Colors: Blue (Trois couleurs: Bleu) (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg"
+    },
+    {
+        "movieId": 308,
+        "title": "Three Colors: White (Trzy kolory: Bialy) (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fdIet3NSa27gobMbaUml66oCQNT.jpg"
+    },
+    {
+        "movieId": 310,
+        "title": "Rent-a-Kid (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/hYxc2o3HHL3x47J5s9taQZ6AUI4.jpg"
+    },
+    {
+        "movieId": 311,
+        "title": "Relative Fear (1994)",
+        "genres": "Horror|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wG6wdsB9lqCwxsRycnzzXZDSo6m.jpg"
+    },
+    {
+        "movieId": 312,
+        "title": "Stuart Saves His Family (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/80YaWpUokDoPynsJi0ittpts3J0.jpg"
+    },
+    {
+        "movieId": 313,
+        "title": "Swan Princess, The (1994)",
+        "genres": "Animation|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tmpO3vk8WguFOE4UXESGdWwHQOX.jpg"
+    },
+    {
+        "movieId": 314,
+        "title": "Secret of Roan Inish, The (1994)",
+        "genres": "Children|Drama|Fantasy|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jjYHAhscWp3uWutHSvFaLC3vEEW.jpg"
+    },
+    {
+        "movieId": 315,
+        "title": "Specialist, The (1994)",
+        "genres": "Action|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg"
+    },
+    {
+        "movieId": 316,
+        "title": "Stargate (1994)",
+        "genres": "Action|Adventure|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4T6Po0XnZlevmhfPh3ZfEs5butR.jpg"
+    },
+    {
+        "movieId": 317,
+        "title": "Santa Clause, The (1994)",
+        "genres": "Comedy|Drama|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+    },
+    {
+        "movieId": 318,
+        "title": "Shawshank Redemption, The (1994)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+    },
+    {
+        "movieId": 319,
+        "title": "Shallow Grave (1994)",
+        "genres": "Comedy|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg"
+    },
+    {
+        "movieId": 320,
+        "title": "Suture (1993)",
+        "genres": "Film-Noir|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/89jGoGPFqOl6JR144iEOxeciggM.jpg"
+    },
+    {
+        "movieId": 321,
+        "title": "Strawberry and Chocolate (Fresa y chocolate) (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tMwUsu080E4kS4rkHPffy1ugvaJ.jpg"
+    },
+    {
+        "movieId": 322,
+        "title": "Swimming with Sharks (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eMRiIJIEyMLjWjktIqjNfzs9jGX.jpg"
+    },
+    {
+        "movieId": 324,
+        "title": "Sum of Us, The (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4rBI4KISTuMCsWGb0kurWxKjqPQ.jpg"
+    },
+    {
+        "movieId": 325,
+        "title": "National Lampoon's Senior Trip (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qfMbFIGNIQ76FEu7Wg48aEbxFh1.jpg"
+    },
+    {
+        "movieId": 326,
+        "title": "To Live (Huozhe) (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bv0qREWTw8TPAtgt22ELp1UlKVl.jpg"
+    },
+    {
+        "movieId": 327,
+        "title": "Tank Girl (1995)",
+        "genres": "Action|Comedy|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qohdY3BcJ98sFneOUAWp0FmH4Z6.jpg"
+    },
+    {
+        "movieId": 328,
+        "title": "Tales from the Crypt Presents: Demon Knight (1995)",
+        "genres": "Horror|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1TekTWa1htkb554KDplTXskQupo.jpg"
+    },
+    {
+        "movieId": 329,
+        "title": "Star Trek: Generations (1994)",
+        "genres": "Adventure|Drama|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rHsCYDGHFUarGh5k987b0EFU6kC.jpg"
+    },
+    {
+        "movieId": 330,
+        "title": "Tales from the Hood (1995)",
+        "genres": "Action|Crime|Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iGUcD8Iu3Q620WUFyVyayXslEly.jpg"
+    },
+    {
+        "movieId": 331,
+        "title": "Tom & Viv (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iw4ofGbX2AbJ4p17CixwnMjuoJ0.jpg"
+    },
+    {
+        "movieId": 332,
+        "title": "Village of the Damned (1995)",
+        "genres": "Horror|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vnK68SPMQTvLWVYaNMINJOismEr.jpg"
+    },
+    {
+        "movieId": 333,
+        "title": "Tommy Boy (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6m1xJqfViDkmNmKUKvTSJ5fo0k4.jpg"
+    },
+    {
+        "movieId": 334,
+        "title": "Vanya on 42nd Street (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sYkkHsqXyUcFoLbXt4WNwnRRpT1.jpg"
+    },
+    {
+        "movieId": 335,
+        "title": "Underneath (1995)",
+        "genres": "Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/61yu1ejOBWUrrMRplRbjpvxgxVc.jpg"
+    },
+    {
+        "movieId": 336,
+        "title": "Walking Dead, The (1995)",
+        "genres": "Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/c0RtcIN4oSzSZoNs0nJMevfGYS4.jpg"
+    },
+    {
+        "movieId": 337,
+        "title": "What's Eating Gilbert Grape (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8FxWgsfDNosewo7H65oE4QkOb7g.jpg"
+    },
+    {
+        "movieId": 338,
+        "title": "Virtuosity (1995)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rLQh1tZZoiMRUKwNk92jHTaIClP.jpg"
+    },
+    {
+        "movieId": 339,
+        "title": "While You Were Sleeping (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg"
+    },
+    {
+        "movieId": 340,
+        "title": "War, The (1994)",
+        "genres": "Adventure|Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eMJYqr5zs7rz54oZhiX4ez1BI5E.jpg"
+    },
+    {
+        "movieId": 341,
+        "title": "Double Happiness (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5sbnCdiFoZLe4G27ERS7wtj1lCY.jpg"
+    },
+    {
+        "movieId": 342,
+        "title": "Muriel's Wedding (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg"
+    },
+    {
+        "movieId": 343,
+        "title": "Baby-Sitters Club, The (1995)",
+        "genres": "Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/juT5eKRDhmluaiVhymjViyXArCq.jpg"
+    },
+    {
+        "movieId": 344,
+        "title": "Ace Ventura: Pet Detective (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yaHnZqJvsSddOKYxf4zCj2Ww2hA.jpg"
+    },
+    {
+        "movieId": 345,
+        "title": "Adventures of Priscilla, Queen of the Desert, The (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/J6IseZVnDNWs12Wbqquh42iYqy.jpg"
+    },
+    {
+        "movieId": 346,
+        "title": "Backbeat (1993)",
+        "genres": "Drama|Musical",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1BuFx7P8veAUUZDXqdMNhtdCUSM.jpg"
+    },
+    {
+        "movieId": 347,
+        "title": "Bitter Moon (1992)",
+        "genres": "Drama|Film-Noir|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bW7E4cLWh0elRRbp2VCrtXrY1if.jpg"
+    },
+    {
+        "movieId": 348,
+        "title": "Bullets Over Broadway (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg"
+    },
+    {
+        "movieId": 349,
+        "title": "Clear and Present Danger (1994)",
+        "genres": "Action|Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg"
+    },
+    {
+        "movieId": 350,
+        "title": "Client, The (1994)",
+        "genres": "Drama|Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg"
+    },
+    {
+        "movieId": 351,
+        "title": "Corrina, Corrina (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xuEubxRGut2Yh118RyNa6ruXXCp.jpg"
+    },
+    {
+        "movieId": 352,
+        "title": "Crooklyn (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg"
+    },
+    {
+        "movieId": 353,
+        "title": "Crow, The (1994)",
+        "genres": "Action|Crime|Fantasy|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg"
+    },
+    {
+        "movieId": 354,
+        "title": "Cobb (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/clOqh9is8vWZvX6AUjF4HtLdQMj.jpg"
+    },
+    {
+        "movieId": 355,
+        "title": "Flintstones, The (1994)",
+        "genres": "Children|Comedy|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ocsb0qiGlcn6UlcDRHa3xxSCc8Y.jpg"
+    },
+    {
+        "movieId": 356,
+        "title": "Forrest Gump (1994)",
+        "genres": "Comedy|Drama|Romance|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
+    },
+    {
+        "movieId": 357,
+        "title": "Four Weddings and a Funeral (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
+    },
+    {
+        "movieId": 358,
+        "title": "Higher Learning (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tuud1Blsdwo1KQRdz5UVwjlLAWQ.jpg"
+    },
+    {
+        "movieId": 359,
+        "title": "I Like It Like That (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aCxh21UPLHi7Pxm9ykH1GNx39OW.jpg"
+    },
+    {
+        "movieId": 360,
+        "title": "I Love Trouble (1994)",
+        "genres": "Action|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2uyytK3XFRPFXoTchFDtsWiSujn.jpg"
+    },
+    {
+        "movieId": 361,
+        "title": "It Could Happen to You (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6UOaeLDOdwwTMQtbl5YL6EGjqy0.jpg"
+    },
+    {
+        "movieId": 362,
+        "title": "Jungle Book, The (1994)",
+        "genres": "Adventure|Children|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rYoE6cuup9Ofam6AuYaiJLxF9OO.jpg"
+    },
+    {
+        "movieId": 363,
+        "title": "Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qFqmjoQwOjo3YgxSw7Q3mMOzx4A.jpg"
+    },
+    {
+        "movieId": 364,
+        "title": "Lion King, The (1994)",
+        "genres": "Adventure|Animation|Children|Drama|Musical|IMAX",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+    },
+    {
+        "movieId": 365,
+        "title": "Little Buddha (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xy70xtdoKZ3PxlKkakwdhL3UFDQ.jpg"
+    },
+    {
+        "movieId": 366,
+        "title": "Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)",
+        "genres": "Drama|Horror|Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg"
+    },
+    {
+        "movieId": 367,
+        "title": "Mask, The (1994)",
+        "genres": "Action|Comedy|Crime|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg"
+    },
+    {
+        "movieId": 368,
+        "title": "Maverick (1994)",
+        "genres": "Adventure|Comedy|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mTVbGGi5PIexmxVzeyFd2RYKwfM.jpg"
+    },
+    {
+        "movieId": 369,
+        "title": "Mrs. Parker and the Vicious Circle (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vBfvtwMWiYMS6FmvHaALDYRJPLJ.jpg"
+    },
+    {
+        "movieId": 370,
+        "title": "Naked Gun 33 1/3: The Final Insult (1994)",
+        "genres": "Action|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/p0AYsdgkudR9P5fNV5AjzbwQt8W.jpg"
+    },
+    {
+        "movieId": 371,
+        "title": "Paper, The (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/pGPrFbucRLwVtCKCeinwAklAl0l.jpg"
+    },
+    {
+        "movieId": 372,
+        "title": "Reality Bites (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qGDhodtpkpxkrFqokenGNJlzt6w.jpg"
+    },
+    {
+        "movieId": 373,
+        "title": "Red Rock West (1992)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ewofUEqU3Gpr7WSgSz3TEVPIfBg.jpg"
+    },
+    {
+        "movieId": 374,
+        "title": "Richie Rich (1994)",
+        "genres": "Children|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg"
+    },
+    {
+        "movieId": 376,
+        "title": "River Wild, The (1994)",
+        "genres": "Action|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wVgQ2T63ThjIsY4R0qoHXjyllql.jpg"
+    },
+    {
+        "movieId": 377,
+        "title": "Speed (1994)",
+        "genres": "Action|Romance|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg"
+    },
+    {
+        "movieId": 378,
+        "title": "Speechless (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bremBHwg2cAvFIGIRwlRtPMkgfL.jpg"
+    },
+    {
+        "movieId": 379,
+        "title": "Timecop (1994)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg"
+    },
+    {
+        "movieId": 380,
+        "title": "True Lies (1994)",
+        "genres": "Action|Adventure|Comedy|Romance|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/pweFTnzzTfGK68woSVkiTgjLzWm.jpg"
+    },
+    {
+        "movieId": 381,
+        "title": "When a Man Loves a Woman (1994)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cA1uMNX3sdWAWfMZbsgm1VIJYSY.jpg"
+    },
+    {
+        "movieId": 382,
+        "title": "Wolf (1994)",
+        "genres": "Drama|Horror|Romance|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8ocZb9x6rN82i8ZzZ05j1vWKVOC.jpg"
+    },
+    {
+        "movieId": 383,
+        "title": "Wyatt Earp (1994)",
+        "genres": "Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/51LItgyecu2KMAtIchYogEykCIu.jpg"
+    },
+    {
+        "movieId": 384,
+        "title": "Bad Company (1995)",
+        "genres": "Action|Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5q5r3cpaTDByz4qko9ZWHlK3gMF.jpg"
+    },
+    {
+        "movieId": 385,
+        "title": "Man of No Importance, A (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nSBeudgK6eFA1kzSAR4b8ndZked.jpg"
+    },
+    {
+        "movieId": 386,
+        "title": "S.F.W. (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3bq91jWCReRrqlPn81alSoxeXoP.jpg"
+    },
+    {
+        "movieId": 387,
+        "title": "Low Down Dirty Shame, A (1994)",
+        "genres": "Action|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/v5XUfLrdoGfatObGXhqckYTNqFT.jpg"
+    },
+    {
+        "movieId": 388,
+        "title": "Boys Life (1995)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jXKecGbSp36C486myi1pbe6EKAI.jpg"
+    },
+    {
+        "movieId": 389,
+        "title": "Colonel Chabert, Le (1994)",
+        "genres": "Drama|Romance|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/Usaduh828gtYe6jw9DosnPJ7I9.jpg"
+    },
+    {
+        "movieId": 390,
+        "title": "Faster Pussycat! Kill! Kill! (1965)",
+        "genres": "Action|Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4mld2L1vWqgqFQmKa7KU4HzLKPi.jpg"
+    },
+    {
+        "movieId": 391,
+        "title": "Jason's Lyric (1994)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/y3ZZJFdTYd4SezXv1gjRv19Jy32.jpg"
+    },
+    {
+        "movieId": 393,
+        "title": "Street Fighter (1994)",
+        "genres": "Action|Adventure|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg"
+    },
+    {
+        "movieId": 405,
+        "title": "Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994)",
+        "genres": "Action|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4lVKy9bsVw78EFhd4yHTDwgBr0U.jpg"
+    },
+    {
+        "movieId": 406,
+        "title": "Federal Hill (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qChLfULhgAhWHG9LbcBIv80r32i.jpg"
+    },
+    {
+        "movieId": 407,
+        "title": "In the Mouth of Madness (1995)",
+        "genres": "Horror|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5fmxO0ouglNw5z14ybRWzQmqmxP.jpg"
+    },
+    {
+        "movieId": 408,
+        "title": "8 Seconds (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wqKVkOveZrK6zwfrptGLVPmnMpR.jpg"
+    },
+    {
+        "movieId": 409,
+        "title": "Above the Rim (1994)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/q7CCx8aj8uME1fBa4KzTMdeWxXu.jpg"
+    },
+    {
+        "movieId": 410,
+        "title": "Addams Family Values (1993)",
+        "genres": "Children|Comedy|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg"
+    },
+    {
+        "movieId": 412,
+        "title": "Age of Innocence, The (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg"
+    },
+    {
+        "movieId": 413,
+        "title": "Airheads (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4xPG8pPMyeoec48gKWbbC85EC8j.jpg"
+    },
+    {
+        "movieId": 414,
+        "title": "Air Up There, The (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lY1yhtg0DRaMTzclYCXo0sP1kAV.jpg"
+    },
+    {
+        "movieId": 415,
+        "title": "Another Stakeout (1993)",
+        "genres": "Comedy|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/hBItFUmCrRS1mel0TM69ymBD79k.jpg"
+    },
+    {
+        "movieId": 416,
+        "title": "Bad Girls (1994)",
+        "genres": "Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oDHzFKU50ayk2IxQRcbOSG2XTTe.jpg"
+    },
+    {
+        "movieId": 417,
+        "title": "Barcelona (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7dgX3naR9EsFMvQhwHY8My6r5FR.jpg"
+    },
+    {
+        "movieId": 418,
+        "title": "Being Human (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1OJilNyyJPH3es0HZzebJjuPJua.jpg"
+    },
+    {
+        "movieId": 419,
+        "title": "Beverly Hillbillies, The (1993)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/refYLEQvzkY63i2IHronCPQODex.jpg"
+    },
+    {
+        "movieId": 420,
+        "title": "Beverly Hills Cop III (1994)",
+        "genres": "Action|Comedy|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg"
+    },
+    {
+        "movieId": 421,
+        "title": "Black Beauty (1994)",
+        "genres": "Adventure|Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5uH60FBDPQoyAnc4uvU0fIB8JXv.jpg"
+    },
+    {
+        "movieId": 422,
+        "title": "Blink (1994)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/z2gLlh5rCV67FVBJp4qn9A25vdq.jpg"
+    },
+    {
+        "movieId": 423,
+        "title": "Blown Away (1994)",
+        "genres": "Action|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fD23iryzdjfRU05nQAQriD0A3AR.jpg"
+    },
+    {
+        "movieId": 424,
+        "title": "Blue Chips (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tO71i4Ob64tchCRBB5MoqonPKAF.jpg"
+    },
+    {
+        "movieId": 425,
+        "title": "Blue Sky (1994)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zG40OnO4Y98lo1iDHyFo5TaZyP1.jpg"
+    },
+    {
+        "movieId": 426,
+        "title": "Body Snatchers (1993)",
+        "genres": "Horror|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/s8WdtuOBvfEsuPtbQVpNfEgd5aR.jpg"
+    },
+    {
+        "movieId": 427,
+        "title": "Boxing Helena (1993)",
+        "genres": "Drama|Mystery|Romance|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vgs0h94IllpZRheIjBTonjR7Zf2.jpg"
+    },
+    {
+        "movieId": 428,
+        "title": "Bronx Tale, A (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg"
+    },
+    {
+        "movieId": 429,
+        "title": "Cabin Boy (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xy2BzE3siqU67VQCQ2k4xideNNM.jpg"
+    },
+    {
+        "movieId": 430,
+        "title": "Calendar Girl (1993)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ljSqZTl5oophHsH1Qtyv7AF2BW6.jpg"
+    },
+    {
+        "movieId": 431,
+        "title": "Carlito's Way (1993)",
+        "genres": "Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/g6D7mjQtndu768cusGmoEQY9fTB.jpg"
+    },
+    {
+        "movieId": 432,
+        "title": "City Slickers II: The Legend of Curly's Gold (1994)",
+        "genres": "Adventure|Comedy|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gh0lsyJARglhpbKmnY8i8M7V5bI.jpg"
+    },
+    {
+        "movieId": 433,
+        "title": "Clean Slate (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kAYsvQvBVshLHGTIDGHcj9jTJq0.jpg"
+    },
+    {
+        "movieId": 434,
+        "title": "Cliffhanger (1993)",
+        "genres": "Action|Adventure|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg"
+    },
+    {
+        "movieId": 435,
+        "title": "Coneheads (1993)",
+        "genres": "Comedy|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4eHnstayi28SCHv8ATcISFEv1Rl.jpg"
+    },
+    {
+        "movieId": 436,
+        "title": "Color of Night (1994)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/584MXUHljFOvhHVc9oXtHuq12U8.jpg"
+    },
+    {
+        "movieId": 437,
+        "title": "Cops and Robbersons (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wnkWgFU5UcLwbExCp1YtCg5Ox4E.jpg"
+    },
+    {
+        "movieId": 438,
+        "title": "Cowboy Way, The (1994)",
+        "genres": "Action|Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/r7sckMs1xy4fXYGzzs6anofu10F.jpg"
+    },
+    {
+        "movieId": 440,
+        "title": "Dave (1993)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wIUuf1NFchdCJe833JBTiSMzqfv.jpg"
+    },
+    {
+        "movieId": 441,
+        "title": "Dazed and Confused (1993)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg"
+    },
+    {
+        "movieId": 442,
+        "title": "Demolition Man (1993)",
+        "genres": "Action|Adventure|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg"
+    },
+    {
+        "movieId": 444,
+        "title": "Even Cowgirls Get the Blues (1993)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/20x8nm0nPXkYv04COAHFA2AHyAl.jpg"
+    },
+    {
+        "movieId": 445,
+        "title": "Fatal Instinct (1993)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/syewFnehGbbya5BdxoHLzrcm5Ne.jpg"
+    },
+    {
+        "movieId": 446,
+        "title": "Farewell My Concubine (Ba wang bie ji) (1993)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg"
+    },
+    {
+        "movieId": 448,
+        "title": "Fearless (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yiCAa85nJJDFiq0LmZ2Fgvu4RgY.jpg"
+    },
+    {
+        "movieId": 449,
+        "title": "Fear of a Black Hat (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jiJp7B74GBKJK8yCqLjMaFu24nJ.jpg"
+    },
+    {
+        "movieId": 450,
+        "title": "With Honors (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iMcSUbMT13Rb8fmhwvanVAMwRW.jpg"
+    },
+    {
+        "movieId": 451,
+        "title": "Flesh and Bone (1993)",
+        "genres": "Drama|Mystery|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gNaZSODlVRiQltGWjS8vQZEYJTq.jpg"
+    },
+    {
+        "movieId": 452,
+        "title": "Widows' Peak (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xXyVUwvJesJJChzpvn7xj5cAOfm.jpg"
+    },
+    {
+        "movieId": 453,
+        "title": "For Love or Money (1993)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6qjr1LWkoJQJ1HXwYJj0edPk9EW.jpg"
+    },
+    {
+        "movieId": 454,
+        "title": "Firm, The (1993)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg"
+    },
+    {
+        "movieId": 455,
+        "title": "Free Willy (1993)",
+        "genres": "Adventure|Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg"
+    },
+    {
+        "movieId": 456,
+        "title": "Fresh (1994)",
+        "genres": "Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uXRIIUzjDZZdWR2cUzPJ9eAqaHv.jpg"
+    },
+    {
+        "movieId": 457,
+        "title": "Fugitive, The (1993)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg"
+    },
+    {
+        "movieId": 458,
+        "title": "Geronimo: An American Legend (1993)",
+        "genres": "Drama|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oW4IM0G5fCR68YalmemTGbPK15F.jpg"
+    },
+    {
+        "movieId": 459,
+        "title": "Getaway, The (1994)",
+        "genres": "Action|Adventure|Crime|Drama|Romance|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4tWvZ4BQu3ICmtUL8lXHa9OgkoF.jpg"
+    },
+    {
+        "movieId": 460,
+        "title": "Getting Even with Dad (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yZLcdtT8UVlj6j3H8Rl51PxIdza.jpg"
+    },
+    {
+        "movieId": 461,
+        "title": "Go Fish (1994)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4hczdEX2RmQTOmiIKygoOYCy0bI.jpg"
+    },
+    {
+        "movieId": 464,
+        "title": "Hard Target (1993)",
+        "genres": "Action|Adventure|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kufvuQYWdl82sYzmhy2naBLyMui.jpg"
+    },
+    {
+        "movieId": 466,
+        "title": "Hot Shots! Part Deux (1993)",
+        "genres": "Action|Comedy|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zh9EGK970GHo10ETclWBOjZVUOK.jpg"
+    },
+    {
+        "movieId": 467,
+        "title": "Live Nude Girls (1995)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vg9piYFtCTHep2V5EmLjwsYMzn2.jpg"
+    },
+    {
+        "movieId": 468,
+        "title": "Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dnatrgiXFf6BLfb2IKHVmg9tCi7.jpg"
+    },
+    {
+        "movieId": 469,
+        "title": "House of the Spirits, The (1993)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/q0YyNTvooXI9ZF71dAYKcRwqlGn.jpg"
+    },
+    {
+        "movieId": 470,
+        "title": "House Party 3 (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jLUgvHO3vVLkzKs3OcYksGPbLnA.jpg"
+    },
+    {
+        "movieId": 471,
+        "title": "Hudsucker Proxy, The (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yWKm4yzRU4hokkbYCJ34vwVwb9R.jpg"
+    },
+    {
+        "movieId": 472,
+        "title": "I'll Do Anything (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/q7CFDCUNfuOxZssINLGkPE9m2l1.jpg"
+    },
+    {
+        "movieId": 473,
+        "title": "In the Army Now (1994)",
+        "genres": "Comedy|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cNIIDaJM9nsDP9tTmAN6sjKpeiN.jpg"
+    },
+    {
+        "movieId": 474,
+        "title": "In the Line of Fire (1993)",
+        "genres": "Action|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg"
+    },
+    {
+        "movieId": 475,
+        "title": "In the Name of the Father (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5HaQacOMOjA2wX1XnwnDd2VaXCf.jpg"
+    },
+    {
+        "movieId": 476,
+        "title": "Inkwell, The (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b5qUq9l6ci9KzzAqYhpdxzjY7qi.jpg"
+    },
+    {
+        "movieId": 477,
+        "title": "What's Love Got to Do with It? (1993)",
+        "genres": "Drama|Musical",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vNAYuA26Wtf7VfzZEaxZQmJTE4Z.jpg"
+    },
+    {
+        "movieId": 478,
+        "title": "Jimmy Hollywood (1994)",
+        "genres": "Comedy|Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sTLLLD6shSp6lrbIKa4v5N4wDso.jpg"
+    },
+    {
+        "movieId": 479,
+        "title": "Judgment Night (1993)",
+        "genres": "Action|Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3rvvpS9YPM5HB2f4HYiNiJVtdam.jpg"
+    },
+    {
+        "movieId": 480,
+        "title": "Jurassic Park (1993)",
+        "genres": "Action|Adventure|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
+    },
+    {
+        "movieId": 481,
+        "title": "Kalifornia (1993)",
+        "genres": "Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4E39RrmgXspAqGro2poDEdjvAnh.jpg"
+    },
+    {
+        "movieId": 482,
+        "title": "Killing Zoe (1994)",
+        "genres": "Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/k3UEKMVnkljOlsO5sLmz87YGlaG.jpg"
+    },
+    {
+        "movieId": 484,
+        "title": "Lassie (1994)",
+        "genres": "Adventure|Children",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5Tz2rzFivQKmMBz5T8Cj7M7CdnI.jpg"
+    },
+    {
+        "movieId": 485,
+        "title": "Last Action Hero (1993)",
+        "genres": "Action|Adventure|Comedy|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yTfjHPqh7C7bkfMtEKx2mPdorQw.jpg"
+    },
+    {
+        "movieId": 486,
+        "title": "Life with Mikey (1993)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dKsvF5t5xsm17HG3GJzQQGJpJzP.jpg"
+    },
+    {
+        "movieId": 487,
+        "title": "Lightning Jack (1994)",
+        "genres": "Comedy|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4YoRERjKWO2442ezcvgEjAZuxWP.jpg"
+    },
+    {
+        "movieId": 488,
+        "title": "M. Butterfly (1993)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vfutnJ9sgpAtNuPemksd26gd5dC.jpg"
+    },
+    {
+        "movieId": 489,
+        "title": "Made in America (1993)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2frB553lKEm1q4dds5PUqLNQA3z.jpg"
+    },
+    {
+        "movieId": 490,
+        "title": "Malice (1993)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oQoe4eIzDjQSSqGvLgJFjXtEkNv.jpg"
+    },
+    {
+        "movieId": 491,
+        "title": "Man Without a Face, The (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9dmH2jc6jwlZo90JQTFOx4XaBWt.jpg"
+    },
+    {
+        "movieId": 492,
+        "title": "Manhattan Murder Mystery (1993)",
+        "genres": "Comedy|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zrzBIlMyAP7Ac9W5qAy5ssAUdK4.jpg"
+    },
+    {
+        "movieId": 493,
+        "title": "Menace II Society (1993)",
+        "genres": "Action|Crime|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg"
+    },
+    {
+        "movieId": 494,
+        "title": "Executive Decision (1996)",
+        "genres": "Action|Adventure|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/hLjXkFr9fHlWzRVwu1T31QSVHRq.jpg"
+    },
+    {
+        "movieId": 495,
+        "title": "In the Realm of the Senses (Ai no corrida) (1976)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qrqK8wbk9bFPM0xvrIX0WckGUpl.jpg"
+    },
+    {
+        "movieId": 496,
+        "title": "What Happened Was... (1994)",
+        "genres": "Comedy|Drama|Romance|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mke5aNX5cT6JIWk2ER4ng9dGNNL.jpg"
+    },
+    {
+        "movieId": 497,
+        "title": "Much Ado About Nothing (1993)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tvltGP6vYOkHdURag0jPSjhPUAV.jpg"
+    },
+    {
+        "movieId": 499,
+        "title": "Mr. Wonderful (1993)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/AtUjyMEXPR41JWZzGfHEzgmrrHq.jpg"
+    },
+    {
+        "movieId": 500,
+        "title": "Mrs. Doubtfire (1993)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg"
+    },
+    {
+        "movieId": 501,
+        "title": "Naked (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xMYP4uaNeyPmX4FQ2xxWk2eIN6K.jpg"
+    },
+    {
+        "movieId": 502,
+        "title": "Next Karate Kid, The (1994)",
+        "genres": "Action|Children|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg"
+    },
+    {
+        "movieId": 504,
+        "title": "No Escape (1994)",
+        "genres": "Action|Drama|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jRwMdEb5bxwVARU2VmOADTflLfZ.jpg"
+    },
+    {
+        "movieId": 505,
+        "title": "North (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg"
+    },
+    {
+        "movieId": 506,
+        "title": "Orlando (1992)",
+        "genres": "Drama|Fantasy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/otSCGdKzEeVgbfNl0YslOpRZHgk.jpg"
+    },
+    {
+        "movieId": 507,
+        "title": "Perfect World, A (1993)",
+        "genres": "Crime|Drama|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1II9kMjOuho3pnEvxkpx7e3ozOO.jpg"
+    },
+    {
+        "movieId": 508,
+        "title": "Philadelphia (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tFe5Yoo5zT495okA49bq1vPPkiV.jpg"
+    },
+    {
+        "movieId": 509,
+        "title": "Piano, The (1993)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg"
+    },
+    {
+        "movieId": 510,
+        "title": "Poetic Justice (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fOtMHxhYaCQcu3dwWpg7lz4Bqo0.jpg"
+    },
+    {
+        "movieId": 511,
+        "title": "Program, The (1993)",
+        "genres": "Action|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4pdbutHc9SLEPmdLKtlVffiLByP.jpg"
+    },
+    {
+        "movieId": 512,
+        "title": "Puppet Masters, The (1994)",
+        "genres": "Horror|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mzq5uA0P5nfTH8Fl7OESeuDop8P.jpg"
+    },
+    {
+        "movieId": 513,
+        "title": "Radioland Murders (1994)",
+        "genres": "Comedy|Mystery|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/l9pvl3AH4UsUvLn4yUP0RR4pltx.jpg"
+    },
+    {
+        "movieId": 514,
+        "title": "Ref, The (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bxMjOeECQxHPf6QvkBChdxaOxVh.jpg"
+    },
+    {
+        "movieId": 515,
+        "title": "Remains of the Day, The (1993)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg"
+    },
+    {
+        "movieId": 516,
+        "title": "Renaissance Man (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iPRtaSfN8gNWFclgrcg5oD3V41i.jpg"
+    },
+    {
+        "movieId": 517,
+        "title": "Rising Sun (1993)",
+        "genres": "Action|Drama|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jVWEeZ383peKxwE284AdyHqq6GH.jpg"
+    },
+    {
+        "movieId": 518,
+        "title": "Road to Wellville, The (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zh7OVdFMpqpZ027z9RgVIwzxYjZ.jpg"
+    },
+    {
+        "movieId": 519,
+        "title": "RoboCop 3 (1993)",
+        "genres": "Action|Crime|Drama|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg"
+    },
+    {
+        "movieId": 520,
+        "title": "Robin Hood: Men in Tights (1993)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b59epUgkPPBqgWcu5Q0YrYRKDx1.jpg"
+    },
+    {
+        "movieId": 521,
+        "title": "Romeo Is Bleeding (1993)",
+        "genres": "Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mgCwAZBG0PCkZflC6nzsxwvG2vu.jpg"
+    },
+    {
+        "movieId": 522,
+        "title": "Romper Stomper (1992)",
+        "genres": "Action|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/w5v1la4WQgh5c2faGUDRnMqKmhk.jpg"
+    },
+    {
+        "movieId": 523,
+        "title": "Ruby in Paradise (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gk0vbIVYwpXxSf1wQbS2r9IsBoV.jpg"
+    },
+    {
+        "movieId": 524,
+        "title": "Rudy (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg"
+    },
+    {
+        "movieId": 526,
+        "title": "Savage Nights (Nuits fauves, Les) (1992)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5Onj1lmo28QklT5iiEdYlKygO7h.jpg"
+    },
+    {
+        "movieId": 527,
+        "title": "Schindler's List (1993)",
+        "genres": "Drama|War",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+    },
+    {
+        "movieId": 528,
+        "title": "Scout, The (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/t6MEMKcUMJB259LZx45uR6c3nVc.jpg"
+    },
+    {
+        "movieId": 529,
+        "title": "Searching for Bobby Fischer (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg"
+    },
+    {
+        "movieId": 531,
+        "title": "Secret Garden, The (1993)",
+        "genres": "Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg"
+    },
+    {
+        "movieId": 532,
+        "title": "Serial Mom (1994)",
+        "genres": "Comedy|Crime|Horror",
+        "poster_path": "https://image.tmdb.org/t/p/w500/svjDGRzT5IsR1odhBOPPBLSF4sm.jpg"
+    },
+    {
+        "movieId": 533,
+        "title": "Shadow, The (1994)",
+        "genres": "Action|Adventure|Fantasy|Mystery",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xAbFJH3vQYZvUyzzGAtG4OLy492.jpg"
+    },
+    {
+        "movieId": 534,
+        "title": "Shadowlands (1993)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5jTWY1M2O4Zhid4rLOpftzazRGn.jpg"
+    },
+    {
+        "movieId": 535,
+        "title": "Short Cuts (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg"
+    },
+    {
+        "movieId": 536,
+        "title": "Simple Twist of Fate, A (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2Jorj80Y4EVEAPDRVVdDXKSVUTw.jpg"
+    },
+    {
+        "movieId": 537,
+        "title": "Sirens (1994)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/bOUDHgOlxANs1KsYZEsLSjZBTkd.jpg"
+    },
+    {
+        "movieId": 538,
+        "title": "Six Degrees of Separation (1993)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oH0bl69uZZA6dAclgFRkm1Vwcry.jpg"
+    },
+    {
+        "movieId": 539,
+        "title": "Sleepless in Seattle (1993)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iLWsLVrfkFvOXOG9PbUAYg7AK3E.jpg"
+    },
+    {
+        "movieId": 540,
+        "title": "Sliver (1993)",
+        "genres": "Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/g7PC2e2KqDkIfOoJx9iXJJez99d.jpg"
+    },
+    {
+        "movieId": 541,
+        "title": "Blade Runner (1982)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg"
+    },
+    {
+        "movieId": 542,
+        "title": "Son in Law (1993)",
+        "genres": "Comedy|Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/A1PzB78kLgJRhslXumMTFjsIUcV.jpg"
+    },
+    {
+        "movieId": 543,
+        "title": "So I Married an Axe Murderer (1993)",
+        "genres": "Comedy|Romance|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wMr6ZjfOnCHOA9Qm3jvo0e7nzfx.jpg"
+    },
+    {
+        "movieId": 544,
+        "title": "Striking Distance (1993)",
+        "genres": "Action|Crime",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1bLazrQWJQhO6u58vJZXJZ3ZFDh.jpg"
+    },
+    {
+        "movieId": 546,
+        "title": "Super Mario Bros. (1993)",
+        "genres": "Action|Adventure|Children|Comedy|Fantasy|Sci-Fi",
+        "poster_path": "https://image.tmdb.org/t/p/w500/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg"
+    },
+    {
+        "movieId": 547,
+        "title": "Surviving the Game (1994)",
+        "genres": "Action|Adventure|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wRtpJFGney5gqHmMb3JjT5WN3FH.jpg"
+    },
+    {
+        "movieId": 548,
+        "title": "Terminal Velocity (1994)",
+        "genres": "Action|Mystery|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jmxE6kKhXaqD2ZKJQO8FYDaLgQ5.jpg"
+    },
+    {
+        "movieId": 549,
+        "title": "Thirty-Two Short Films About Glenn Gould (1993)",
+        "genres": "Drama|Musical",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gIvypJ6N8aUN9DoeRY1siPDF9AW.jpg"
+    },
+    {
+        "movieId": 550,
+        "title": "Threesome (1994)",
+        "genres": "Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gHXXhuGJKUjq5Pl9RNgfQbqLIxw.jpg"
+    },
+    {
+        "movieId": 551,
+        "title": "Nightmare Before Christmas, The (1993)",
+        "genres": "Animation|Children|Fantasy|Musical",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+    },
+    {
+        "movieId": 552,
+        "title": "Three Musketeers, The (1993)",
+        "genres": "Action|Adventure|Comedy|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg"
+    },
+    {
+        "movieId": 553,
+        "title": "Tombstone (1993)",
+        "genres": "Action|Drama|Western",
+        "poster_path": "https://image.tmdb.org/t/p/w500/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg"
+    },
+    {
+        "movieId": 555,
+        "title": "True Romance (1993)",
+        "genres": "Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg"
+    },
+    {
+        "movieId": 556,
+        "title": "War Room, The (1993)",
+        "genres": "Documentary",
+        "poster_path": "https://image.tmdb.org/t/p/w500/prfxsyG4SnlnqqulavCJ4RksFUA.jpg"
+    },
+    {
+        "movieId": 558,
+        "title": "Pagemaster, The (1994)",
+        "genres": "Action|Adventure|Animation|Children|Fantasy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/etctWkYFfP7voGM3rd7uqxQJavY.jpg"
+    },
+    {
+        "movieId": 562,
+        "title": "Welcome to the Dollhouse (1995)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jWP9OUb8Xl3PQ9qxpXFkreFMqEH.jpg"
+    },
+    {
+        "movieId": 563,
+        "title": "Germinal (1993)",
+        "genres": "Drama|Romance",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cizv23RUxcpTrQt4kcOz7Sv6YJl.jpg"
+    },
+    {
+        "movieId": 564,
+        "title": "Chasers (1994)",
+        "genres": "Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mEG6fTyTjsA1vzTTqCXsiJzjdQ5.jpg"
+    },
+    {
+        "movieId": 567,
+        "title": "Kika (1993)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jUEBKaMqcvrz0HHF8Cei8asjRWr.jpg"
+    },
+    {
+        "movieId": 568,
+        "title": "Bhaji on the Beach (1993)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3J5XZgf0NsvTumKMXMqPz5dNhfY.jpg"
+    },
+    {
+        "movieId": 569,
+        "title": "Little Big League (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dyZ6Agvh2yAFe91J8pJroAPCZgh.jpg"
+    },
+    {
+        "movieId": 573,
+        "title": "Ciao, Professore! (Io speriamo che me la cavo) (1992)",
+        "genres": "Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b4wZkB4FNUi7SK46Tw9kxT5oW8M.jpg"
+    },
+    {
+        "movieId": 574,
+        "title": "Spanking the Monkey (1994)",
+        "genres": "Comedy|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cXgBxiPn1GBVMZX7mPsMSMjpfmt.jpg"
+    },
+    {
+        "movieId": 575,
+        "title": "Little Rascals, The (1994)",
+        "genres": "Children|Comedy",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg"
+    },
+    {
+        "movieId": 577,
+        "title": "Andre (1994)",
+        "genres": "Adventure|Children|Drama",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uo5BozBpQfKXGLPUeUkwBGLG0XW.jpg"
+    },
+    {
+        "movieId": 579,
+        "title": "Escort, The (Scorta, La) (1993)",
+        "genres": "Crime|Thriller",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3R7E9fuuu3kftGXkNibWDejRO0K.jpg"
+    }
+]
