@@ -1,74 +1,122 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```markdown
+# 🎥 Film Recommendation System
 
-## Available Scripts
+This project is a **Film Recommendation System** designed to suggest movies based on user preferences. It leverages modern web technologies and a robust backend for delivering personalized recommendations.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌟 Features
+- User authentication and secure login.
+- Personalized movie recommendations.
+- A sleek and user-friendly interface.
+- Real-time updates from an external movie database API.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used
+- **Frontend**: React.js
+- **Backend**: FastAPI
+- **Database**: MySQL (managed via phpMyAdmin)
+- **Styling**: CSS (Tailored for a responsive design)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚙️ Setup Instructions
 
-### `npm run build`
+### Prerequisites
+- Python 3.7+ installed on your machine.
+- Node.js and npm installed.
+- MySQL server running with phpMyAdmin for database management.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Jalil03/Film-recomnedation-.git
+cd Film-recomnedation-
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 2. Install Backend Dependencies
+Navigate to the backend folder and install the required Python packages:
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 3. Install Frontend Dependencies
+Navigate to the frontend folder and install the required npm packages:
+```bash
+cd ../frontend
+npm install
+```
 
-### `npm run eject`
+### 4. Set Up the Database
+1. Import the SQL file `recommandation_de_film.sql` into your MySQL server using phpMyAdmin.
+2. Update the database connection details in your backend settings.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 5. Run the Application
+#### Start the Backend Server:
+```bash
+cd ../backend
+uvicorn main:app --reload
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Start the Frontend Server:
+```bash
+cd ../frontend
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- The backend will be accessible at [http://127.0.0.1:8000](http://127.0.0.1:8000).
+- The frontend will be accessible at [http://127.0.0.1:3000](http://127.0.0.1:3000).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🚀 API Endpoints
+- **GET** `/`: Welcome message.
+- **GET** `/movies`: Fetch movie recommendations.
+- **POST** `/login`: User authentication.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 License
+This project is licensed under the [MIT License](LICENSE).
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🛡️ Support
+For any questions or issues, feel free to reach out by opening an issue in this repository.
 
-### Making a Progressive Web App
+Happy coding! 🎬
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Instructions:
+1. Save this content into a file named `README.md` at the root of your repository.
+2. Commit and push it to your repository:
+   ```bash
+   git add README.md
+   git commit -m "Add README file"
+   git push origin main
+   ```
 
-### Advanced Configuration
+![1](https://github.com/user-attachments/assets/7babb47d-6f9a-445b-b584-7d2d4969d99a)
+![2](https://github.com/user-attachments/assets/b5faf6b2-62cb-44fb-835d-017f93c6cd25)
+![3](https://github.com/user-attachments/assets/29ea7a45-7076-4629-8d16-410b0c02e8ad)
+![4](https://github.com/user-attachments/assets/26bed995-01dc-4051-94a0-5a9e629316a0)
+![5](https://github.com/user-attachments/assets/9f077960-66ee-42a8-a7c3-e1b47f83a600)
+![6](https://github.com/user-attachments/assets/e3cdd174-22e2-4ce3-b14a-5899362b32fa)
+![7](https://github.com/user-attachments/assets/efc5af9c-f2d5-4864-9cd0-16ac93bf879d)
+![8](https://github.com/user-attachments/assets/9c43c5d2-c8fd-477a-b5ea-cc4b1f128f39)
+![9](https://github.com/user-attachments/assets/6276e458-0ad9-4775-849b-266e0e87075b)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Film-recomnedation-
->>>>>>> 7f2f88d2dcee6cfd05563cc2e69f0f3f0b07ce8e
+
