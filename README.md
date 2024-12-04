@@ -31,6 +31,7 @@ This project is a **Film Recommendation System** designed to suggest movies base
 
 ### 1. Clone the Repository
 ```bash
+git config --global http.postBuffer 524288000 
 git clone https://github.com/Jalil03/Film-recomnedation-.git
 cd Film-recomnedation-
 ```
@@ -54,6 +55,8 @@ npm install
 ### 4. Set Up the Database
 1. Import the SQL file `recommandation_de_film.sql` into your MySQL server using phpMyAdmin.
 2. Update the database connection details in your backend settings.
+3. This project is on phpmyadmin , so u should have xamp already installed and run Mysql from there , also create the database under the name of recommendation de film
+4. After , import the file recommandation_de_film.sql in ur database 
 
 ### 5. Run the Application
 #### Start the Backend Server:
@@ -79,19 +82,6 @@ npm start
 - **POST** `/login`: User authentication.
 
 ---
-
-## 📝 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contribution
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
----
-
-## 🛡️ Support
-For any questions or issues, feel free to reach out by opening an issue in this repository.
 
 Happy coding! 🎬
 ```
