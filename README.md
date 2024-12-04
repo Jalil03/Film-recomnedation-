@@ -12,7 +12,7 @@ This project is a **Film Recommendation System** designed to suggest movies base
 - A sleek and user-friendly interface.
 - Real-time updates from an external movie database API.
 - Here is the link of the googlecollab project that contains the algorithms without api ,
-    you will find the data files movies_reduced_to_500.xlsx(ou bien csv) & ratings_reduced_to_500.xlsx(ou bien csv) dans le fichier backend 
+    you will find the data files movies_reduced_to_500.xlsx(ou bien csv) & ratings_reduced_to_500.xlsx(ou bien csv) din the backend file 
 The link ( read only ) : https://colab.research.google.com/drive/19vNwUj_G41fK0gIVzBGq6iV-xIZTAM6H?usp=sharing 
 ---
 
