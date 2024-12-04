@@ -1,215 +1,169 @@
-/* Container and General Styling */
-.recommendation-container {
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-    color: #fff;
-    font-family: 'Arial', sans-serif;
+/* Body Styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Recommendations Container */
+.recommendations-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #1c1c1c;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6);
+  animation: fadeIn 0.5s ease-in-out;
+  overflow: hidden;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #ff6f61;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+/* Dropdown and Buttons */
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+select, button {
+  padding: 12px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+select {
+  background-color: #2b2b2b;
+  color: white;
+  border: 1px solid #ff6f61;
+}
+
+select:focus {
+  outline: none;
+  box-shadow: 0 0 5px #ff6f61;
+}
+
+button {
+  background: linear-gradient(135deg, #ff6f61, #ff3d00);
+  color: white;
+  box-shadow: 0 4px 8px rgba(255, 61, 0, 0.6);
+}
+
+button:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, #ff3d00, #ff6f61);
+}
+
+/* Movie Grid */
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.movie-card {
+  background: #252525;
+  border-radius: 12px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.movie-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.7);
+}
+
+.movie-image {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-bottom: 2px solid #ff6f61;
+}
+
+/* MAE Section */
+.mae-section {
+  background-color: #252525;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  text-align: center;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.mae-section h3 {
+  color: #ff6f61;
+  margin-bottom: 10px;
+}
+
+.mae-section p {
+  font-size: 1.1rem;
+  color: #e0e0e0;
+}
+
+/* Feedback Section */
+.feedback-section {
+  margin-top: 40px;
+  background-color: #2b2b2b;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.feedback-section input[type="number"] {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 2px solid #ff6f61;
+  margin-right: 10px;
+  outline: none;
+}
+
+.feedback-section input:focus {
+  border-color: #ff3d00;
+}
+
+.feedback-section button {
+  padding: 10px 20px;
+  background-color: #ff6f61;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.feedback-section button:hover {
+  background-color: #ff3d00;
+  transform: scale(1.1);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
   }
-  
-  .recommendation-title {
-    text-align: center;
-    font-size: 2.5rem;
-    color: #ff6f61;
-    margin-bottom: 10px;
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
-  
-  .recommendation-description {
-    text-align: center;
-    font-size: 1.2rem;
-    margin-bottom: 20px;
-    color: #ccc;
-  }
-  
-  /* Radio Buttons */
-  .search-options {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-  
-  .radio-label {
-    display: flex;
-    align-items: center;
-    margin: 0 10px;
-    cursor: pointer;
-    font-size: 1rem;
-    color: #fff;
-    transition: color 0.3s ease;
-  }
-  
-  .radio-label input {
-    margin-right: 5px;
-  }
-  
-  .radio-label.active {
-    color: #ff6f61;
-  }
-  
-  /* Search Input and Button */
-  .input-container {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 30px;
-  }
-  
-  .search-input {
-    padding: 10px;
-    width: 300px;
-    border: 2px solid #ff6f61;
-    border-radius: 5px;
-    outline: none;
-    font-size: 1rem;
-  }
-  
-  .search-button {
-    padding: 10px 20px;
-    margin-left: 10px;
-    border: none;
-    background-color: #ff6f61;
-    color: #fff;
-    font-size: 1rem;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .search-button:hover {
-    background-color: #ff3d00;
-  }
-  
-/* Single Result Styling */
-.single-result {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 30px;
-    padding: 20px;
-    background-color: #1e1e1e;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    max-width: 800px; /* Constrain the overall width */
-    margin-left: auto;
-    margin-right: auto; /* Center the container */
-  }
-  
-  .single-result-image {
-    max-width: 100%; /* Ensure image doesn't exceed container width */
-    width: 300px; /* Constrain width for consistency */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 10px;
-    margin-right: 20px; /* Add spacing between the image and text */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a shadow for better appearance */
-  }
-  
-  .single-result-info {
-    flex: 1; /* Take up remaining space for text */
-    text-align: left; /* Align text to the left */
-    color: #fff;
-  }
-  
-  .single-result-info h2 {
-    font-size: 1.8rem;
-    color: #ff6f61;
-    margin-bottom: 10px;
-  }
-  
-  .single-result-info p {
-    font-size: 1rem;
-    color: #ccc;
-    margin-bottom: 10px;
-  }
-  
-  /* Styling for the entire result card for better visual alignment */
-  .single-result-container {
-    display: flex;
-    flex-wrap: wrap; /* Handle smaller screens */
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-  }
-  
-  /* Results Grid for Multiple Movies */
-  .results-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
-    padding: 20px 0;
-  }
-  
-  .result-card {
-    background: #1e1e1e;
-    border-radius: 10px;
-    overflow: hidden;
-    text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-  
-  .result-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
-  }
-  
-  .result-image {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-    border-bottom: 2px solid #ff6f61;
-  }
-  
-  .result-card h3 {
-    color: #ff6f61;
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-  }
-  
-  .result-card p {
-    color: #ccc;
-    font-size: 0.9rem;
-  }
-  
-  /* Restrict Genres Length */
-  .genres {
-    color: #ccc;
-    font-size: 0.9rem;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-  }
-  
-  /* Fallback for No Results */
-  .no-results {
-    text-align: center;
-    margin-top: 20px;
-  }
-  
-  .no-results img {
-    max-width: 300px;
-    margin-bottom: 10px;
-  }
-  
-  .no-results p {
-    font-size: 1.2rem;
-    color: #ccc;
-  }
-  
-  /* Styling for Stars */
-  .rating {
-    margin-top: 10px;
-    font-size: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-    color: #ff6f61;
-  }
-  
-  .star {
-    color: #ccc;
-    font-size: 1.2rem;
-  }
-  
-  .star.filled {
-    color: #ff6f61;
-  }
-  
+}

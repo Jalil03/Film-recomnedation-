@@ -17,9 +17,6 @@ function MovieList() {
 
   return (
     <div className="movie-list">
-       <Link to="/recommendations">
-        <button className="recommend-button">Find Recommendations</button>
-      </Link>
       <h1 className="page-title">🎬 Explore Our Movie Collection 🎥</h1>
       <div className="filters">
         {['All', 'Action', 'Drama', 'Sci-Fi', 'Comedy', 'Romance'].map((genre) => (

@@ -1,0 +1,76 @@
+/* Global container for the layout */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #141414, #1c1c1c);
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main section to center the login form */
+.main {
+  flex: 1;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+/* Login container with 3D effect */
+.login-container {
+  border-radius: 15px;
+  padding: 30px;
+  width: 400px;
+  background: linear-gradient(135deg, #1a1a1a, #292929);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6), -5px -5px 15px rgba(60, 60, 60, 0.5);
+  text-align: center;
+}
+
+/* Form title */
+.login-container h2 {
+  color: #ff6f61;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+/* Input fields */
+.login-container input {
+  width: calc(100% - 20px); /* Full width minus padding for symmetry */
+  padding: 12px;
+  margin: 10px 0; /* Equal spacing between fields */
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 2px solid #ff6f61;
+  background-color: #2b2b2b; /* Match input background with container */
+  color: white;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.login-container input:focus {
+  border-color: #ff3d00;
+  box-shadow: 0 0 8px rgba(255, 61, 0, 0.8);
+}
+
+/* Submit button */
+.login-container button {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(135deg, #ff6f61, #ff3d00);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.login-container button:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, #ff3d00, #ff6f61);
+  box-shadow: 0 4px 10px rgba(255, 61, 0, 0.5);
+}

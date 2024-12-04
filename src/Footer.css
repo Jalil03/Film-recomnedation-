@@ -1,10 +1,10 @@
 .footer {
-  background: linear-gradient(90deg, #1c1c1c, #383838, #1c1c1c);
+  background: linear-gradient(90deg, #1e1e1e, #4e4032, #1e1e1e);
   color: white;
   text-align: center;
   padding: 20px 10px;
   font-size: 0.9rem;
-  border-top: 2px solid #50fa7b;
+  border-top: 2px solid #533417;
   position: relative;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .footer-links a {
-  color: #50fa7b;
+  color: #ff6f61;
   text-decoration: none;
   font-size: 0.85rem;
   transition: color 0.3s ease;

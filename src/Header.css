@@ -1,5 +1,5 @@
 .header {
-  background: linear-gradient(90deg, #002b5b, #005f73, #0a9396); /* Deep navy to teal tones */
+  background: linear-gradient(90deg, #1e1e1e, #4e4032, #1e1e1e);
   color: white;
   padding: 10px 15px;
   display: flex;
@@ -15,7 +15,7 @@
   font-family: 'Roboto', sans-serif;
   font-size: 1.6rem;
   font-weight: bold;
-  color: #ffbc42; /* Soft yellow to complement red and orange */
+  color: #ff6f61; /* Soft yellow to complement red and orange */
   display: flex;
   align-items: center;
   gap: 10px;
@@ -38,7 +38,7 @@
 }
 
 .header-nav li a:hover {
-  background-color: #0a9396; /* Teal for hover effect */
+  background-color: #533417; /* Teal for hover effect */
   color: #ffbc42; /* Soft yellow text on hover */
 }
 
@@ -46,4 +46,59 @@
   background-color: #ff6f61; /* Red for active link */
   color: white;
   font-weight: bold;
+}
+
+
+/* Header Navigation */
+.header-nav {
+  list-style: none;
+  display: flex; /* Ensure horizontal alignment */
+  gap: 15px; /* Space between menu items */
+  align-items: center; /* Align items vertically */
+}
+
+/* Links in Header */
+.header-nav li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 6px 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover effect for links */
+.header-nav li a:hover {
+  background-color: #533417;
+  color: #ffbc42;
+}
+
+/* Active link */
+.header-nav li a.active {
+  background-color: #ff6f61;
+  color: white;
+  font-weight: bold;
+}
+
+/* Logout Button Styling */
+.logout-button {
+  background: linear-gradient(135deg, #ff6f61, #ff3d00); /* Gradient for Logout button */
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  padding: 6px 15px; /* Same padding as links for consistency */
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: inline-flex; /* Inline-flex for consistent alignment */
+  align-items: center; /* Center text vertically */
+  justify-content: center; /* Center text horizontally */
+}
+
+.logout-button:hover {
+  background-color: #ff3d00; /* Slightly darker on hover */
+  transform: scale(1.05); /* Add a subtle hover effect */
+  box-shadow: 0 4px 10px rgba(255, 61, 0, 0.5);
 }

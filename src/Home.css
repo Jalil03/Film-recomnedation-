@@ -4,17 +4,18 @@
   align-items: center;
   justify-content: center;
   min-height: 85vh;
-  background: linear-gradient(to bottom, #141e30, #243b55);
+  background: linear-gradient(90deg, #1e1e1e, #4e4032, #1e1e1e);
   color: white;
   text-align: center;
   padding: 20px;
 }
 
+
 .home h1 {
   font-size: 2.5rem;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 15px;
-  color: #50fa7b;
+  color: #ff6f61;
   letter-spacing: 1px;
 }
 
@@ -45,17 +46,17 @@
 }
 
 .button-green {
-  background-color: #3dbb5d;
+  background-color: #ff6f61;
 }
 
 .button-green:hover {
-  background-color: #3cbf60;
+  background-color: #ff6f61;
 }
 
 .button-blue {
-  background-color: #6272a4;
+  background-color: #e0b68e;
 }
 
 .button-blue:hover {
-  background-color: #4a5e91;
+  background-color: #91694a;
 }
