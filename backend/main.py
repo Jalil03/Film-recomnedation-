@@ -297,3 +297,59 @@ def recommend_movies(
         "movies_seen": movies_data[movies_data['movieId'].isin(movies_seen_ids)]['title'].tolist(),
         "recommended_movies": recommended_movies['title'].tolist()
     }
+    
+    
+# Modèle de données pour le feedback
+class RecommendationFeedback(BaseModel):
+    user_id: int
+    feedback_score: float  # Note globale sur la recommandation (échelle de 1 à 5)
+
+feedback_data = []  # Stocker les évaluations utilisateur (en mémoire pour cet exemple)
+
+@app.post("/feedback")
+def submit_feedback(feedback: RecommendationFeedback):
+    """
+    Enregistrer le feedback de l'utilisateur.
+    """
+    # Ajouter le feedback dans une liste ou une base de données
+    feedback_data.append(feedback)
+    return {"message": "Feedback enregistré avec succès", "feedback": feedback}
+
+
+@app.get("/evaluate_feedback_mae")
+def evaluate_feedback_mae():
+    """
+    Calculer le MAE en utilisant les feedbacks utilisateur.
+    """
+    actual_ratings = []
+    predicted_ratings = []
+
+    # Parcourir tous les feedbacks enregistrés
+    for feedback in feedback_data:
+        # Note réelle (score global donné par l'utilisateur)
+        actual_rating = feedback.feedback_score
+
+        # Prédiction moyenne des notes de l'utilisateur
+        user_ratings = ratings_data[ratings_data['userId'] == feedback.user_id]
+        if user_ratings.empty:
+            predicted_rating = ratings_data['rating'].mean()  # Moyenne globale si l'utilisateur n'a pas de notes
+        else:
+            predicted_rating = user_ratings['rating'].mean()
+
+        # Ajouter au calcul de la MAE
+        actual_ratings.append(actual_rating)
+        predicted_ratings.append(predicted_rating)
+
+    # Calculer la MAE
+    if not actual_ratings:
+        raise HTTPException(status_code=400, detail="Pas de feedback disponible pour évaluer le MAE.")
+    
+    mae = mean_absolute_error(actual_ratings, predicted_ratings)
+    precision_percentage = ((5 - mae) / 5) * 100
+
+    return {
+        "message": "MAE calculée avec succès à partir des feedbacks.",
+        "mae": mae,
+        "precision": f"Les prédictions sont précises à {precision_percentage:.2f}% environ."
+    }
+
